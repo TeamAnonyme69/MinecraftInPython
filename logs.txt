@@ -1,0 +1,2252 @@
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Game finished
+[ GAME ] : Shutting Down.
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Game finished
+[ GAME ] : Shutting Down.
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Game finished
+[ GAME ] : Shutting Down.
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Game finished
+[ GAME ] : Shutting Down.
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Game finished
+[ GAME ] : Shutting Down.
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Game finished
+[ GAME ] : Shutting Down.
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Game finished
+[ GAME ] : Shutting Down.
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Game finished
+[ GAME ] : Shutting Down.
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Game finished
+[ GAME ] : Shutting Down.
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Game finished
+[ GAME ] : Shutting Down.
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Game finished
+[ GAME ] : Shutting Down.
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Game finished
+[ GAME ] : Shutting Down.
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Game finished
+[ GAME ] : Shutting Down.
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Game finished
+[ GAME ] : Shutting Down.
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Game finished
+[ GAME ] : Shutting Down.
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Game finished
+[ GAME ] : Shutting Down.
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Game finished
+[ GAME ] : Shutting Down.
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+[ WARN ] : Launching Game !
+[ WARN ] : System Information
+[ WARN ] : System: Windows
+[ WARN ] : Node Name: DESKTOP-DHP8CR4
+[ WARN ] : Release: 10
+[ WARN ] : Version: 10.0.19041
+[ WARN ] : Machine: AMD64
+[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+[ GAME ] : Setting self.exclusive = False
+[ GAME ] : Setting self.flying = False
+[ GAME ] : Setting self.strafe = [0, 0]
+[ GAME ] : Setting self.position = (0, 1, 0)
+[ GAME ] : Setting self.rotation = (0, 0)
+[ GAME ] : Setting self.sector = None
+[ GAME ] : Setting self.reticle = None
+[ GAME ] : Setting self.dy = 0
+[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+[ GAME ] : Setting self.block = self.inventory[0]
+[ WARN ] : Fog Disabled !
+[ GAME ] : Game finished
+[ GAME ] : Shutting Down.
+[ GAME ] : Setting Max Framerate to 60
+[ GAME ] : Setting Render Distance to 16
+[ GAME ] : Setting walking speed to 7
+[ GAME ] : Setting gravity to 20.0
+[ GAME ] : Setting Fog to False
+2021-03-28T16:52[ GAME ] : Setting Max Framerate to 60
+2021-03-28T16:52[ GAME ] : Setting Render Distance to 16
+2021-03-28T16:52[ GAME ] : Setting walking speed to 7
+2021-03-28T16:52[ GAME ] : Setting gravity to 20.0
+2021-03-28T16:52[ GAME ] : Setting Fog to False
+2021-03-28T16:52[ WARN ] : Launching Game !
+2021-03-28T16:52[ WARN ] : System Information
+2021-03-28T16:52[ WARN ] : System: Windows
+2021-03-28T16:52[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-28T16:52[ WARN ] : Release: 10
+2021-03-28T16:52[ WARN ] : Version: 10.0.19041
+2021-03-28T16:52[ WARN ] : Machine: AMD64
+2021-03-28T16:52[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-28T16:52[ GAME ] : Setting self.exclusive = False
+2021-03-28T16:52[ GAME ] : Setting self.flying = False
+2021-03-28T16:52[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-28T16:52[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-28T16:52[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-28T16:52[ GAME ] : Setting self.sector = None
+2021-03-28T16:52[ GAME ] : Setting self.reticle = None
+2021-03-28T16:52[ GAME ] : Setting self.dy = 0
+2021-03-28T16:52[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-28T16:52[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-28T16:52[ WARN ] : Fog Disabled !
+2021-03-28T16:55[ GAME ] : Game finished
+2021-03-28T16:55[ GAME ] : Shutting Down.
+2021-03-28T16:55:49[ GAME ] : Setting Max Framerate to 60
+2021-03-28T16:55:49[ GAME ] : Setting Render Distance to 16
+2021-03-28T16:55:49[ GAME ] : Setting walking speed to 7
+2021-03-28T16:55:49[ GAME ] : Setting gravity to 20.0
+2021-03-28T16:55:49[ GAME ] : Setting Fog to False
+2021-03-28T16:55:49[ WARN ] : Launching Game !
+2021-03-28T16:55:49[ WARN ] : System Information
+2021-03-28T16:55:49[ WARN ] : System: Windows
+2021-03-28T16:55:49[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-28T16:55:49[ WARN ] : Release: 10
+2021-03-28T16:55:49[ WARN ] : Version: 10.0.19041
+2021-03-28T16:55:49[ WARN ] : Machine: AMD64
+2021-03-28T16:55:49[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-28T16:55:49[ GAME ] : Setting self.exclusive = False
+2021-03-28T16:55:49[ GAME ] : Setting self.flying = False
+2021-03-28T16:55:49[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-28T16:55:49[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-28T16:55:49[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-28T16:55:49[ GAME ] : Setting self.sector = None
+2021-03-28T16:55:49[ GAME ] : Setting self.reticle = None
+2021-03-28T16:55:49[ GAME ] : Setting self.dy = 0
+2021-03-28T16:55:49[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-28T16:55:49[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-28T16:56:01[ WARN ] : Fog Disabled !
+2021-03-28T16:56:57[ GAME ] : Game finished
+2021-03-28T16:56:57[ GAME ] : Shutting Down.
+2021-03-28T16:58:04[ GAME ] : Setting Max Framerate to 60
+2021-03-28T16:58:04[ GAME ] : Setting Render Distance to 16
+2021-03-28T16:58:04[ GAME ] : Setting walking speed to 7
+2021-03-28T16:58:04[ GAME ] : Setting gravity to 20.0
+2021-03-28T16:58:04[ GAME ] : Setting Fog to False
+2021-03-28T16:58:05[ WARN ] : Launching Game !
+2021-03-28T16:58:05[ WARN ] : System Information
+2021-03-28T16:58:05[ WARN ] : System: Windows
+2021-03-28T16:58:05[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-28T16:58:05[ WARN ] : Release: 10
+2021-03-28T16:58:05[ WARN ] : Version: 10.0.19041
+2021-03-28T16:58:05[ WARN ] : Machine: AMD64
+2021-03-28T16:58:05[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-28T16:58:05[ GAME ] : Setting self.exclusive = False
+2021-03-28T16:58:05[ GAME ] : Setting self.flying = False
+2021-03-28T16:58:05[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-28T16:58:05[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-28T16:58:05[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-28T16:58:05[ GAME ] : Setting self.sector = None
+2021-03-28T16:58:05[ GAME ] : Setting self.reticle = None
+2021-03-28T16:58:05[ GAME ] : Setting self.dy = 0
+2021-03-28T16:58:05[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-28T16:58:05[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-28T16:58:16[ WARN ] : Fog Disabled !
+2021-03-28T16:58:26[ GAME ] : Game finished
+2021-03-28T16:58:26[ GAME ] : Shutting Down.
+2021-03-28T16:59:02[ GAME ] : Setting Max Framerate to 60
+2021-03-28T16:59:02[ GAME ] : Setting Render Distance to 16
+2021-03-28T16:59:02[ GAME ] : Setting walking speed to 7
+2021-03-28T16:59:02[ GAME ] : Setting gravity to 20.0
+2021-03-28T16:59:02[ GAME ] : Setting Fog to False
+2021-03-28T16:59:03[ WARN ] : Launching Game !
+2021-03-28T16:59:03[ WARN ] : System Information
+2021-03-28T16:59:03[ WARN ] : System: Windows
+2021-03-28T16:59:03[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-28T16:59:03[ WARN ] : Release: 10
+2021-03-28T16:59:03[ WARN ] : Version: 10.0.19041
+2021-03-28T16:59:03[ WARN ] : Machine: AMD64
+2021-03-28T16:59:03[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-28T16:59:03[ GAME ] : Setting self.exclusive = False
+2021-03-28T16:59:03[ GAME ] : Setting self.flying = False
+2021-03-28T16:59:03[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-28T16:59:03[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-28T16:59:03[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-28T16:59:03[ GAME ] : Setting self.sector = None
+2021-03-28T16:59:03[ GAME ] : Setting self.reticle = None
+2021-03-28T16:59:03[ GAME ] : Setting self.dy = 0
+2021-03-28T16:59:03[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-28T16:59:03[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-28T16:59:09[ WARN ] : Fog Disabled !
+2021-03-28T16:59:53[ GAME ] : Game finished
+2021-03-28T16:59:54[ GAME ] : Shutting Down.
+2021-03-28T17:00:25[ GAME ] : Setting Max Framerate to 60
+2021-03-28T17:00:25[ GAME ] : Setting Render Distance to 16
+2021-03-28T17:00:25[ GAME ] : Setting walking speed to 7
+2021-03-28T17:00:25[ GAME ] : Setting gravity to 20.0
+2021-03-28T17:00:25[ GAME ] : Setting Fog to False
+2021-03-28T17:00:25[ WARN ] : Launching Game !
+2021-03-28T17:00:25[ WARN ] : System Information
+2021-03-28T17:00:25[ WARN ] : System: Windows
+2021-03-28T17:00:25[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-28T17:00:25[ WARN ] : Release: 10
+2021-03-28T17:00:25[ WARN ] : Version: 10.0.19041
+2021-03-28T17:00:25[ WARN ] : Machine: AMD64
+2021-03-28T17:00:25[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-28T17:00:25[ GAME ] : Setting self.exclusive = False
+2021-03-28T17:00:26[ GAME ] : Setting self.flying = False
+2021-03-28T17:00:26[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-28T17:00:26[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-28T17:00:26[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-28T17:00:26[ GAME ] : Setting self.sector = None
+2021-03-28T17:00:26[ GAME ] : Setting self.reticle = None
+2021-03-28T17:00:26[ GAME ] : Setting self.dy = 0
+2021-03-28T17:00:26[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-28T17:00:26[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-28T17:00:34[ WARN ] : Fog Disabled !
+2021-03-28T17:00:52[ GAME ] : Game finished
+2021-03-28T17:00:52[ GAME ] : Shutting Down.
+2021-03-28T17:01:27[ GAME ] : Setting Max Framerate to 60
+2021-03-28T17:01:27[ GAME ] : Setting Render Distance to 16
+2021-03-28T17:01:27[ GAME ] : Setting walking speed to 7
+2021-03-28T17:01:27[ GAME ] : Setting gravity to 20.0
+2021-03-28T17:01:27[ GAME ] : Setting Fog to False
+2021-03-28T17:01:27[ WARN ] : Launching Game !
+2021-03-28T17:01:27[ WARN ] : System Information
+2021-03-28T17:01:27[ WARN ] : System: Windows
+2021-03-28T17:01:28[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-28T17:01:28[ WARN ] : Release: 10
+2021-03-28T17:01:28[ WARN ] : Version: 10.0.19041
+2021-03-28T17:01:28[ WARN ] : Machine: AMD64
+2021-03-28T17:01:28[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-28T17:01:28[ GAME ] : Setting self.exclusive = False
+2021-03-28T17:01:28[ GAME ] : Setting self.flying = False
+2021-03-28T17:01:28[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-28T17:01:28[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-28T17:01:28[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-28T17:01:28[ GAME ] : Setting self.sector = None
+2021-03-28T17:01:28[ GAME ] : Setting self.reticle = None
+2021-03-28T17:01:28[ GAME ] : Setting self.dy = 0
+2021-03-28T17:01:28[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-28T17:01:28[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-28T17:01:37[ GAME ] : Setting Max Framerate to 60
+2021-03-28T17:01:37[ GAME ] : Setting Render Distance to 16
+2021-03-28T17:01:37[ GAME ] : Setting walking speed to 7
+2021-03-28T17:01:37[ GAME ] : Setting gravity to 20.0
+2021-03-28T17:01:37[ GAME ] : Setting Fog to False
+2021-03-28T17:01:37[ WARN ] : Launching Game !
+2021-03-28T17:01:37[ WARN ] : System Information
+2021-03-28T17:01:37[ WARN ] : System: Windows
+2021-03-28T17:01:37[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-28T17:01:37[ WARN ] : Release: 10
+2021-03-28T17:01:37[ WARN ] : Version: 10.0.19041
+2021-03-28T17:01:37[ WARN ] : Machine: AMD64
+2021-03-28T17:01:37[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-28T17:01:37[ GAME ] : Setting self.exclusive = False
+2021-03-28T17:01:37[ GAME ] : Setting self.flying = False
+2021-03-28T17:01:37[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-28T17:01:37[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-28T17:01:37[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-28T17:01:37[ GAME ] : Setting self.sector = None
+2021-03-28T17:01:37[ GAME ] : Setting self.reticle = None
+2021-03-28T17:01:37[ GAME ] : Setting self.dy = 0
+2021-03-28T17:01:37[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-28T17:01:37[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-28T17:01:44[ WARN ] : Fog Disabled !
+2021-03-28T17:02:03[ GAME ] : Game finished
+2021-03-28T17:02:03[ GAME ] : Shutting Down.
+2021-03-29T09:58:25[ GAME ] : Setting Max Framerate to 60
+2021-03-29T09:58:25[ GAME ] : Setting Render Distance to 16
+2021-03-29T09:58:25[ GAME ] : Setting walking speed to 7
+2021-03-29T09:58:25[ GAME ] : Setting gravity to 20.0
+2021-03-29T09:58:25[ GAME ] : Setting Fog to False
+2021-03-29T09:58:27[ WARN ] : Launching Game !
+2021-03-29T09:58:27[ WARN ] : System Information
+2021-03-29T09:58:27[ WARN ] : System: Windows
+2021-03-29T09:58:27[ WARN ] : Node Name: CDI-P10
+2021-03-29T09:58:27[ WARN ] : Release: 7
+2021-03-29T09:58:27[ WARN ] : Version: 6.1.7601
+2021-03-29T09:58:27[ WARN ] : Machine: AMD64
+2021-03-29T09:58:27[ WARN ] : Processor: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+2021-03-29T09:58:27[ GAME ] : Setting self.exclusive = False
+2021-03-29T09:58:27[ GAME ] : Setting self.flying = False
+2021-03-29T09:58:27[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T09:58:27[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T09:58:27[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T09:58:27[ GAME ] : Setting self.sector = None
+2021-03-29T09:58:27[ GAME ] : Setting self.reticle = None
+2021-03-29T09:58:27[ GAME ] : Setting self.dy = 0
+2021-03-29T09:58:27[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T09:58:27[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T09:58:45[ WARN ] : Fog Disabled !
+2021-03-29T09:59:31[ GAME ] : Game finished
+2021-03-29T09:59:31[ GAME ] : Shutting Down.
+2021-03-29T10:18:55[ GAME ] : Setting Max Framerate to 60
+2021-03-29T10:18:55[ GAME ] : Setting Render Distance to 16
+2021-03-29T10:18:55[ GAME ] : Setting walking speed to 7
+2021-03-29T10:18:55[ GAME ] : Setting gravity to 20.0
+2021-03-29T10:18:55[ GAME ] : Setting Fog to False
+2021-03-29T10:18:56[ WARN ] : Launching Game !
+2021-03-29T10:18:56[ WARN ] : System Information
+2021-03-29T10:18:56[ WARN ] : System: Windows
+2021-03-29T10:18:56[ WARN ] : Node Name: CDI-P10
+2021-03-29T10:18:56[ WARN ] : Release: 7
+2021-03-29T10:18:56[ WARN ] : Version: 6.1.7601
+2021-03-29T10:18:56[ WARN ] : Machine: AMD64
+2021-03-29T10:18:56[ WARN ] : Processor: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+2021-03-29T10:18:56[ GAME ] : Setting self.exclusive = False
+2021-03-29T10:18:56[ GAME ] : Setting self.flying = False
+2021-03-29T10:18:56[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T10:18:56[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T10:18:56[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T10:18:56[ GAME ] : Setting self.sector = None
+2021-03-29T10:18:56[ GAME ] : Setting self.reticle = None
+2021-03-29T10:18:56[ GAME ] : Setting self.dy = 0
+2021-03-29T10:18:56[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T10:18:57[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T10:19:09[ WARN ] : Fog Disabled !
+2021-03-29T10:21:04[ GAME ] : Game finished
+2021-03-29T10:21:04[ GAME ] : Shutting Down.
+2021-03-29T10:23:51[ GAME ] : Setting Max Framerate to 60
+2021-03-29T10:23:51[ GAME ] : Setting Render Distance to 16
+2021-03-29T10:23:51[ GAME ] : Setting walking speed to 7
+2021-03-29T10:23:51[ GAME ] : Setting gravity to 20.0
+2021-03-29T10:23:51[ GAME ] : Setting Fog to False
+2021-03-29T10:23:51[ WARN ] : Launching Game !
+2021-03-29T10:23:51[ WARN ] : System Information
+2021-03-29T10:23:51[ WARN ] : System: Windows
+2021-03-29T10:23:51[ WARN ] : Node Name: CDI-P10
+2021-03-29T10:23:52[ WARN ] : Release: 7
+2021-03-29T10:23:52[ WARN ] : Version: 6.1.7601
+2021-03-29T10:23:52[ WARN ] : Machine: AMD64
+2021-03-29T10:23:52[ WARN ] : Processor: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+2021-03-29T10:23:52[ GAME ] : Setting self.exclusive = False
+2021-03-29T10:23:52[ GAME ] : Setting self.flying = False
+2021-03-29T10:23:52[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T10:23:52[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T10:23:52[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T10:23:52[ GAME ] : Setting self.sector = None
+2021-03-29T10:23:52[ GAME ] : Setting self.reticle = None
+2021-03-29T10:23:52[ GAME ] : Setting self.dy = 0
+2021-03-29T10:23:52[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T10:23:52[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T10:24:29[ GAME ] : Setting Max Framerate to 60
+2021-03-29T10:24:29[ GAME ] : Setting Render Distance to 16
+2021-03-29T10:24:29[ GAME ] : Setting walking speed to 7
+2021-03-29T10:24:29[ GAME ] : Setting gravity to 20.0
+2021-03-29T10:24:29[ GAME ] : Setting Fog to False
+2021-03-29T10:24:30[ WARN ] : Launching Game !
+2021-03-29T10:24:30[ WARN ] : System Information
+2021-03-29T10:24:30[ WARN ] : System: Windows
+2021-03-29T10:24:30[ WARN ] : Node Name: CDI-P10
+2021-03-29T10:24:30[ WARN ] : Release: 7
+2021-03-29T10:24:30[ WARN ] : Version: 6.1.7601
+2021-03-29T10:24:30[ WARN ] : Machine: AMD64
+2021-03-29T10:24:30[ WARN ] : Processor: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+2021-03-29T10:24:30[ GAME ] : Setting self.exclusive = False
+2021-03-29T10:24:30[ GAME ] : Setting self.flying = False
+2021-03-29T10:24:30[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T10:24:30[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T10:24:30[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T10:24:30[ GAME ] : Setting self.sector = None
+2021-03-29T10:24:30[ GAME ] : Setting self.reticle = None
+2021-03-29T10:24:30[ GAME ] : Setting self.dy = 0
+2021-03-29T10:24:30[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T10:24:30[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T10:24:40[ WARN ] : Fog Disabled !
+2021-03-29T10:25:03[ GAME ] : Game finished
+2021-03-29T10:25:03[ GAME ] : Shutting Down.
+2021-03-29T10:25:11[ GAME ] : Setting Max Framerate to 60
+2021-03-29T10:25:11[ GAME ] : Setting Render Distance to 16
+2021-03-29T10:25:11[ GAME ] : Setting walking speed to 7
+2021-03-29T10:25:11[ GAME ] : Setting gravity to 20.0
+2021-03-29T10:25:11[ GAME ] : Setting Fog to False
+2021-03-29T10:25:11[ WARN ] : Launching Game !
+2021-03-29T10:25:11[ WARN ] : System Information
+2021-03-29T10:25:11[ WARN ] : System: Windows
+2021-03-29T10:25:11[ WARN ] : Node Name: CDI-P10
+2021-03-29T10:25:11[ WARN ] : Release: 7
+2021-03-29T10:25:11[ WARN ] : Version: 6.1.7601
+2021-03-29T10:25:11[ WARN ] : Machine: AMD64
+2021-03-29T10:25:11[ WARN ] : Processor: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+2021-03-29T10:25:11[ GAME ] : Setting self.exclusive = False
+2021-03-29T10:25:11[ GAME ] : Setting self.flying = False
+2021-03-29T10:25:11[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T10:25:12[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T10:25:12[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T10:25:12[ GAME ] : Setting self.sector = None
+2021-03-29T10:25:12[ GAME ] : Setting self.reticle = None
+2021-03-29T10:25:12[ GAME ] : Setting self.dy = 0
+2021-03-29T10:25:12[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T10:25:12[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T10:25:22[ WARN ] : Fog Disabled !
+2021-03-29T10:25:43[ GAME ] : Game finished
+2021-03-29T10:25:43[ GAME ] : Shutting Down.
+2021-03-29T10:25:54[ GAME ] : Setting Max Framerate to 60
+2021-03-29T10:25:54[ GAME ] : Setting Render Distance to 16
+2021-03-29T10:25:54[ GAME ] : Setting walking speed to 7
+2021-03-29T10:25:54[ GAME ] : Setting gravity to 20.0
+2021-03-29T10:25:54[ GAME ] : Setting Fog to False
+2021-03-29T10:25:54[ WARN ] : Launching Game !
+2021-03-29T10:25:54[ WARN ] : System Information
+2021-03-29T10:25:54[ WARN ] : System: Windows
+2021-03-29T10:25:54[ WARN ] : Node Name: CDI-P10
+2021-03-29T10:25:54[ WARN ] : Release: 7
+2021-03-29T10:25:54[ WARN ] : Version: 6.1.7601
+2021-03-29T10:25:54[ WARN ] : Machine: AMD64
+2021-03-29T10:25:54[ WARN ] : Processor: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+2021-03-29T10:25:54[ GAME ] : Setting self.exclusive = False
+2021-03-29T10:25:54[ GAME ] : Setting self.flying = False
+2021-03-29T10:25:54[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T10:25:54[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T10:25:54[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T10:25:54[ GAME ] : Setting self.sector = None
+2021-03-29T10:25:54[ GAME ] : Setting self.reticle = None
+2021-03-29T10:25:54[ GAME ] : Setting self.dy = 0
+2021-03-29T10:25:54[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T10:25:54[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T10:26:07[ WARN ] : Fog Disabled !
+2021-03-29T10:26:22[ GAME ] : Game finished
+2021-03-29T10:26:22[ GAME ] : Shutting Down.
+2021-03-29T10:26:33[ GAME ] : Setting Max Framerate to 60
+2021-03-29T10:26:33[ GAME ] : Setting Render Distance to 16
+2021-03-29T10:26:33[ GAME ] : Setting walking speed to 7
+2021-03-29T10:26:33[ GAME ] : Setting gravity to 20.0
+2021-03-29T10:26:33[ GAME ] : Setting Fog to False
+2021-03-29T10:26:34[ WARN ] : Launching Game !
+2021-03-29T10:26:34[ WARN ] : System Information
+2021-03-29T10:26:34[ WARN ] : System: Windows
+2021-03-29T10:26:34[ WARN ] : Node Name: CDI-P10
+2021-03-29T10:26:34[ WARN ] : Release: 7
+2021-03-29T10:26:34[ WARN ] : Version: 6.1.7601
+2021-03-29T10:26:34[ WARN ] : Machine: AMD64
+2021-03-29T10:26:34[ WARN ] : Processor: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+2021-03-29T10:26:34[ GAME ] : Setting self.exclusive = False
+2021-03-29T10:26:34[ GAME ] : Setting self.flying = False
+2021-03-29T10:26:34[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T10:26:34[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T10:26:34[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T10:26:34[ GAME ] : Setting self.sector = None
+2021-03-29T10:26:34[ GAME ] : Setting self.reticle = None
+2021-03-29T10:26:34[ GAME ] : Setting self.dy = 0
+2021-03-29T10:26:34[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T10:26:34[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T10:26:45[ WARN ] : Fog Disabled !
+2021-03-29T10:27:02[ GAME ] : Game finished
+2021-03-29T10:27:02[ GAME ] : Shutting Down.
+2021-03-29T10:27:14[ GAME ] : Setting Max Framerate to 60
+2021-03-29T10:27:14[ GAME ] : Setting Render Distance to 16
+2021-03-29T10:27:14[ GAME ] : Setting walking speed to 7
+2021-03-29T10:27:14[ GAME ] : Setting gravity to 20.0
+2021-03-29T10:27:14[ GAME ] : Setting Fog to False
+2021-03-29T10:27:14[ WARN ] : Launching Game !
+2021-03-29T10:27:14[ WARN ] : System Information
+2021-03-29T10:27:14[ WARN ] : System: Windows
+2021-03-29T10:27:14[ WARN ] : Node Name: CDI-P10
+2021-03-29T10:27:14[ WARN ] : Release: 7
+2021-03-29T10:27:14[ WARN ] : Version: 6.1.7601
+2021-03-29T10:27:14[ WARN ] : Machine: AMD64
+2021-03-29T10:27:14[ WARN ] : Processor: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+2021-03-29T10:27:14[ GAME ] : Setting self.exclusive = False
+2021-03-29T10:27:14[ GAME ] : Setting self.flying = False
+2021-03-29T10:27:14[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T10:27:14[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T10:27:14[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T10:27:14[ GAME ] : Setting self.sector = None
+2021-03-29T10:27:15[ GAME ] : Setting self.reticle = None
+2021-03-29T10:27:15[ GAME ] : Setting self.dy = 0
+2021-03-29T10:27:15[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T10:27:15[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T10:27:24[ WARN ] : Fog Disabled !
+2021-03-29T10:27:48[ GAME ] : Game finished
+2021-03-29T10:27:48[ GAME ] : Shutting Down.
+2021-03-29T10:27:56[ GAME ] : Setting Max Framerate to 60
+2021-03-29T10:27:56[ GAME ] : Setting Render Distance to 16
+2021-03-29T10:27:57[ GAME ] : Setting walking speed to 7
+2021-03-29T10:27:57[ GAME ] : Setting gravity to 20.0
+2021-03-29T10:27:57[ GAME ] : Setting Fog to False
+2021-03-29T10:27:57[ WARN ] : Launching Game !
+2021-03-29T10:27:57[ WARN ] : System Information
+2021-03-29T10:27:57[ WARN ] : System: Windows
+2021-03-29T10:27:57[ WARN ] : Node Name: CDI-P10
+2021-03-29T10:27:57[ WARN ] : Release: 7
+2021-03-29T10:27:57[ WARN ] : Version: 6.1.7601
+2021-03-29T10:27:57[ WARN ] : Machine: AMD64
+2021-03-29T10:27:57[ WARN ] : Processor: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+2021-03-29T10:27:57[ GAME ] : Setting self.exclusive = False
+2021-03-29T10:27:57[ GAME ] : Setting self.flying = False
+2021-03-29T10:27:57[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T10:27:57[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T10:27:57[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T10:27:57[ GAME ] : Setting self.sector = None
+2021-03-29T10:27:57[ GAME ] : Setting self.reticle = None
+2021-03-29T10:27:57[ GAME ] : Setting self.dy = 0
+2021-03-29T10:27:57[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T10:27:57[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T10:28:07[ WARN ] : Fog Disabled !
+2021-03-29T10:28:34[ GAME ] : Game finished
+2021-03-29T10:28:34[ GAME ] : Shutting Down.
+2021-03-29T10:30:19[ GAME ] : Setting Max Framerate to 60
+2021-03-29T10:30:19[ GAME ] : Setting Render Distance to 16
+2021-03-29T10:30:19[ GAME ] : Setting walking speed to 7
+2021-03-29T10:30:19[ GAME ] : Setting gravity to 20.0
+2021-03-29T10:30:19[ GAME ] : Setting Fog to False
+2021-03-29T10:30:20[ WARN ] : Launching Game !
+2021-03-29T10:30:20[ WARN ] : System Information
+2021-03-29T10:30:20[ WARN ] : System: Windows
+2021-03-29T10:30:20[ WARN ] : Node Name: CDI-P10
+2021-03-29T10:30:20[ WARN ] : Release: 7
+2021-03-29T10:30:20[ WARN ] : Version: 6.1.7601
+2021-03-29T10:30:20[ WARN ] : Machine: AMD64
+2021-03-29T10:30:20[ WARN ] : Processor: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+2021-03-29T10:30:20[ GAME ] : Setting self.exclusive = False
+2021-03-29T10:30:20[ GAME ] : Setting self.flying = False
+2021-03-29T10:30:20[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T10:30:20[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T10:30:20[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T10:30:20[ GAME ] : Setting self.sector = None
+2021-03-29T10:30:20[ GAME ] : Setting self.reticle = None
+2021-03-29T10:30:20[ GAME ] : Setting self.dy = 0
+2021-03-29T10:30:20[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T10:30:20[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T10:30:36[ GAME ] : Setting Max Framerate to 60
+2021-03-29T10:30:36[ GAME ] : Setting Render Distance to 16
+2021-03-29T10:30:37[ GAME ] : Setting walking speed to 7
+2021-03-29T10:30:37[ GAME ] : Setting gravity to 20.0
+2021-03-29T10:30:37[ GAME ] : Setting Fog to False
+2021-03-29T10:30:37[ WARN ] : Launching Game !
+2021-03-29T10:30:37[ WARN ] : System Information
+2021-03-29T10:30:37[ WARN ] : System: Windows
+2021-03-29T10:30:37[ WARN ] : Node Name: CDI-P10
+2021-03-29T10:30:37[ WARN ] : Release: 7
+2021-03-29T10:30:37[ WARN ] : Version: 6.1.7601
+2021-03-29T10:30:37[ WARN ] : Machine: AMD64
+2021-03-29T10:30:37[ WARN ] : Processor: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+2021-03-29T10:30:37[ GAME ] : Setting self.exclusive = False
+2021-03-29T10:30:37[ GAME ] : Setting self.flying = False
+2021-03-29T10:30:37[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T10:30:37[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T10:30:37[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T10:30:37[ GAME ] : Setting self.sector = None
+2021-03-29T10:30:37[ GAME ] : Setting self.reticle = None
+2021-03-29T10:30:37[ GAME ] : Setting self.dy = 0
+2021-03-29T10:30:37[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T10:30:37[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T10:30:47[ WARN ] : Fog Disabled !
+2021-03-29T10:31:03[ GAME ] : Game finished
+2021-03-29T10:31:03[ GAME ] : Shutting Down.
+2021-03-29T10:32:35[ GAME ] : Setting Max Framerate to 60
+2021-03-29T10:32:35[ GAME ] : Setting Render Distance to 16
+2021-03-29T10:32:35[ GAME ] : Setting walking speed to 7
+2021-03-29T10:32:35[ GAME ] : Setting gravity to 20.0
+2021-03-29T10:32:35[ GAME ] : Setting Fog to False
+2021-03-29T10:32:35[ WARN ] : Launching Game !
+2021-03-29T10:32:35[ WARN ] : System Information
+2021-03-29T10:32:35[ WARN ] : System: Windows
+2021-03-29T10:32:35[ WARN ] : Node Name: CDI-P10
+2021-03-29T10:32:35[ WARN ] : Release: 7
+2021-03-29T10:32:35[ WARN ] : Version: 6.1.7601
+2021-03-29T10:32:35[ WARN ] : Machine: AMD64
+2021-03-29T10:32:35[ WARN ] : Processor: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+2021-03-29T10:32:35[ GAME ] : Setting self.exclusive = False
+2021-03-29T10:32:36[ GAME ] : Setting self.flying = False
+2021-03-29T10:32:36[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T10:32:36[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T10:32:36[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T10:32:36[ GAME ] : Setting self.sector = None
+2021-03-29T10:32:36[ GAME ] : Setting self.reticle = None
+2021-03-29T10:32:36[ GAME ] : Setting self.dy = 0
+2021-03-29T10:32:36[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T10:32:36[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T10:32:45[ WARN ] : Fog Disabled !
+2021-03-29T10:34:07[ GAME ] : Game finished
+2021-03-29T10:34:07[ GAME ] : Shutting Down.
+2021-03-29T10:34:21[ GAME ] : Setting Max Framerate to 60
+2021-03-29T10:34:21[ GAME ] : Setting Render Distance to 16
+2021-03-29T10:34:21[ GAME ] : Setting walking speed to 7
+2021-03-29T10:34:21[ GAME ] : Setting gravity to 20.0
+2021-03-29T10:34:21[ GAME ] : Setting Fog to False
+2021-03-29T10:34:21[ WARN ] : Launching Game !
+2021-03-29T10:34:21[ WARN ] : System Information
+2021-03-29T10:34:21[ WARN ] : System: Windows
+2021-03-29T10:34:21[ WARN ] : Node Name: CDI-P10
+2021-03-29T10:34:21[ WARN ] : Release: 7
+2021-03-29T10:34:21[ WARN ] : Version: 6.1.7601
+2021-03-29T10:34:21[ WARN ] : Machine: AMD64
+2021-03-29T10:34:21[ WARN ] : Processor: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+2021-03-29T10:34:21[ GAME ] : Setting self.exclusive = False
+2021-03-29T10:34:21[ GAME ] : Setting self.flying = False
+2021-03-29T10:34:21[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T10:34:21[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T10:34:21[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T10:34:21[ GAME ] : Setting self.sector = None
+2021-03-29T10:34:21[ GAME ] : Setting self.reticle = None
+2021-03-29T10:34:21[ GAME ] : Setting self.dy = 0
+2021-03-29T10:34:21[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T10:34:21[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T10:34:31[ WARN ] : Fog Disabled !
+2021-03-29T10:35:15[ GAME ] : Game finished
+2021-03-29T10:35:16[ GAME ] : Shutting Down.
+2021-03-29T10:35:31[ GAME ] : Setting Max Framerate to 60
+2021-03-29T10:35:31[ GAME ] : Setting Render Distance to 16
+2021-03-29T10:35:31[ GAME ] : Setting walking speed to 7
+2021-03-29T10:35:31[ GAME ] : Setting gravity to 20.0
+2021-03-29T10:35:31[ GAME ] : Setting Fog to False
+2021-03-29T10:35:31[ WARN ] : Launching Game !
+2021-03-29T10:35:31[ WARN ] : System Information
+2021-03-29T10:35:31[ WARN ] : System: Windows
+2021-03-29T10:35:31[ WARN ] : Node Name: CDI-P10
+2021-03-29T10:35:31[ WARN ] : Release: 7
+2021-03-29T10:35:31[ WARN ] : Version: 6.1.7601
+2021-03-29T10:35:31[ WARN ] : Machine: AMD64
+2021-03-29T10:35:31[ WARN ] : Processor: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+2021-03-29T10:35:31[ GAME ] : Setting self.exclusive = False
+2021-03-29T10:35:31[ GAME ] : Setting self.flying = False
+2021-03-29T10:35:31[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T10:35:31[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T10:35:31[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T10:35:31[ GAME ] : Setting self.sector = None
+2021-03-29T10:35:31[ GAME ] : Setting self.reticle = None
+2021-03-29T10:35:32[ GAME ] : Setting self.dy = 0
+2021-03-29T10:35:32[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T10:35:32[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T10:35:40[ WARN ] : Fog Disabled !
+2021-03-29T10:36:27[ GAME ] : Game finished
+2021-03-29T10:36:27[ GAME ] : Shutting Down.
+2021-03-29T10:38:03[ GAME ] : Setting Max Framerate to 60
+2021-03-29T10:38:03[ GAME ] : Setting Render Distance to 16
+2021-03-29T10:38:03[ GAME ] : Setting walking speed to 7
+2021-03-29T10:38:03[ GAME ] : Setting gravity to 20.0
+2021-03-29T10:38:03[ GAME ] : Setting Fog to False
+2021-03-29T10:38:03[ WARN ] : Launching Game !
+2021-03-29T10:38:03[ WARN ] : System Information
+2021-03-29T10:38:03[ WARN ] : System: Windows
+2021-03-29T10:38:03[ WARN ] : Node Name: CDI-P10
+2021-03-29T10:38:03[ WARN ] : Release: 7
+2021-03-29T10:38:03[ WARN ] : Version: 6.1.7601
+2021-03-29T10:38:03[ WARN ] : Machine: AMD64
+2021-03-29T10:38:03[ WARN ] : Processor: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+2021-03-29T10:38:03[ GAME ] : Setting self.exclusive = False
+2021-03-29T10:38:03[ GAME ] : Setting self.flying = False
+2021-03-29T10:38:03[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T10:38:03[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T10:38:03[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T10:38:03[ GAME ] : Setting self.sector = None
+2021-03-29T10:38:03[ GAME ] : Setting self.reticle = None
+2021-03-29T10:38:03[ GAME ] : Setting self.dy = 0
+2021-03-29T10:38:03[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T10:38:03[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T10:38:14[ WARN ] : Fog Disabled !
+2021-03-29T10:38:39[ GAME ] : Game finished
+2021-03-29T10:38:39[ GAME ] : Shutting Down.
+2021-03-29T10:38:51[ GAME ] : Setting Max Framerate to 60
+2021-03-29T10:38:51[ GAME ] : Setting Render Distance to 16
+2021-03-29T10:38:51[ GAME ] : Setting walking speed to 7
+2021-03-29T10:38:51[ GAME ] : Setting gravity to 20.0
+2021-03-29T10:38:51[ GAME ] : Setting Fog to False
+2021-03-29T10:38:52[ WARN ] : Launching Game !
+2021-03-29T10:38:52[ WARN ] : System Information
+2021-03-29T10:38:52[ WARN ] : System: Windows
+2021-03-29T10:38:52[ WARN ] : Node Name: CDI-P10
+2021-03-29T10:38:52[ WARN ] : Release: 7
+2021-03-29T10:38:52[ WARN ] : Version: 6.1.7601
+2021-03-29T10:38:52[ WARN ] : Machine: AMD64
+2021-03-29T10:38:52[ WARN ] : Processor: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+2021-03-29T10:38:52[ GAME ] : Setting self.exclusive = False
+2021-03-29T10:38:52[ GAME ] : Setting self.flying = False
+2021-03-29T10:38:52[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T10:38:52[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T10:38:52[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T10:38:52[ GAME ] : Setting self.sector = None
+2021-03-29T10:38:52[ GAME ] : Setting self.reticle = None
+2021-03-29T10:38:52[ GAME ] : Setting self.dy = 0
+2021-03-29T10:38:52[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T10:38:52[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T10:39:01[ WARN ] : Fog Disabled !
+2021-03-29T10:39:36[ GAME ] : Game finished
+2021-03-29T10:39:36[ GAME ] : Shutting Down.
+2021-03-29T12:00:43[ GAME ] : Setting Max Framerate to 60
+2021-03-29T12:00:43[ GAME ] : Setting Render Distance to 16
+2021-03-29T12:00:43[ GAME ] : Setting walking speed to 7
+2021-03-29T12:00:43[ GAME ] : Setting gravity to 20.0
+2021-03-29T12:00:43[ GAME ] : Setting Fog to False
+2021-03-29T12:03:55[ GAME ] : Setting Max Framerate to 60
+2021-03-29T12:03:55[ GAME ] : Setting Render Distance to 16
+2021-03-29T12:03:55[ GAME ] : Setting walking speed to 7
+2021-03-29T12:03:55[ GAME ] : Setting gravity to 20.0
+2021-03-29T12:03:55[ GAME ] : Setting Fog to False
+2021-03-29T12:04:00[ WARN ] : Launching Game !
+2021-03-29T12:04:00[ WARN ] : System Information
+2021-03-29T12:04:00[ WARN ] : System: Windows
+2021-03-29T12:04:00[ WARN ] : Node Name: C304-P02
+2021-03-29T12:04:00[ WARN ] : Release: 7
+2021-03-29T12:04:00[ WARN ] : Version: 6.1.7601
+2021-03-29T12:04:00[ WARN ] : Machine: AMD64
+2021-03-29T12:04:00[ WARN ] : Processor: AMD64 Family 16 Model 6 Stepping 3, AuthenticAMD
+2021-03-29T12:04:01[ GAME ] : Setting self.exclusive = False
+2021-03-29T12:04:01[ GAME ] : Setting self.flying = False
+2021-03-29T12:04:01[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T12:04:01[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T12:04:01[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T12:04:01[ GAME ] : Setting self.sector = None
+2021-03-29T12:04:01[ GAME ] : Setting self.reticle = None
+2021-03-29T12:04:01[ GAME ] : Setting self.dy = 0
+2021-03-29T12:04:01[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T12:04:01[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T12:04:27[ WARN ] : Fog Disabled !
+2021-03-29T12:13:45[ GAME ] : Game finished
+2021-03-29T12:13:45[ GAME ] : Shutting Down.
+2021-03-29T12:16:04[ GAME ] : Setting Max Framerate to 60
+2021-03-29T12:16:04[ GAME ] : Setting Render Distance to 16
+2021-03-29T12:16:04[ GAME ] : Setting walking speed to 7
+2021-03-29T12:16:04[ GAME ] : Setting gravity to 20.0
+2021-03-29T12:16:05[ GAME ] : Setting Fog to False
+2021-03-29T12:16:06[ WARN ] : Launching Game !
+2021-03-29T12:16:06[ WARN ] : System Information
+2021-03-29T12:16:06[ WARN ] : System: Windows
+2021-03-29T12:16:06[ WARN ] : Node Name: C304-P02
+2021-03-29T12:16:07[ WARN ] : Release: 7
+2021-03-29T12:16:07[ WARN ] : Version: 6.1.7601
+2021-03-29T12:16:07[ WARN ] : Machine: AMD64
+2021-03-29T12:16:07[ WARN ] : Processor: AMD64 Family 16 Model 6 Stepping 3, AuthenticAMD
+2021-03-29T12:16:07[ GAME ] : Setting self.exclusive = False
+2021-03-29T12:16:07[ GAME ] : Setting self.flying = False
+2021-03-29T12:16:07[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T12:16:07[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T12:16:07[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T12:16:07[ GAME ] : Setting self.sector = None
+2021-03-29T12:16:07[ GAME ] : Setting self.reticle = None
+2021-03-29T12:16:07[ GAME ] : Setting self.dy = 0
+2021-03-29T12:16:07[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T12:16:07[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T12:16:27[ WARN ] : Fog Disabled !
+2021-03-29T12:23:50[ GAME ] : Setting Max Framerate to 60
+2021-03-29T12:23:50[ GAME ] : Setting Render Distance to 16
+2021-03-29T12:23:50[ GAME ] : Setting walking speed to 7
+2021-03-29T12:23:50[ GAME ] : Setting gravity to 20.0
+2021-03-29T12:23:50[ GAME ] : Setting Fog to False
+2021-03-29T12:23:51[ WARN ] : Launching Game !
+2021-03-29T12:23:51[ WARN ] : System Information
+2021-03-29T12:23:51[ WARN ] : System: Windows
+2021-03-29T12:23:51[ WARN ] : Node Name: C304-P02
+2021-03-29T12:23:51[ WARN ] : Release: 7
+2021-03-29T12:23:51[ WARN ] : Version: 6.1.7601
+2021-03-29T12:23:51[ WARN ] : Machine: AMD64
+2021-03-29T12:23:51[ WARN ] : Processor: AMD64 Family 16 Model 6 Stepping 3, AuthenticAMD
+2021-03-29T12:23:51[ GAME ] : Setting self.exclusive = False
+2021-03-29T12:23:51[ GAME ] : Setting self.flying = False
+2021-03-29T12:23:51[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T12:23:51[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T12:23:51[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T12:23:51[ GAME ] : Setting self.sector = None
+2021-03-29T12:23:51[ GAME ] : Setting self.reticle = None
+2021-03-29T12:23:52[ GAME ] : Setting self.dy = 0
+2021-03-29T12:23:52[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T12:23:52[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T12:23:52[ WARN ] : Fog Disabled !
+2021-03-29T12:24:02[ GAME ] : Game finished
+2021-03-29T12:24:02[ GAME ] : Shutting Down.
+2021-03-29T12:27:27[ GAME ] : Setting Max Framerate to 60
+2021-03-29T12:27:27[ GAME ] : Setting Render Distance to 16
+2021-03-29T12:27:27[ GAME ] : Setting walking speed to 7
+2021-03-29T12:27:27[ GAME ] : Setting gravity to 20.0
+2021-03-29T12:27:27[ GAME ] : Setting Fog to False
+2021-03-29T12:27:28[ WARN ] : Launching Game !
+2021-03-29T12:27:28[ WARN ] : System Information
+2021-03-29T12:27:28[ WARN ] : System: Windows
+2021-03-29T12:27:28[ WARN ] : Node Name: C304-P02
+2021-03-29T12:27:28[ WARN ] : Release: 7
+2021-03-29T12:27:28[ WARN ] : Version: 6.1.7601
+2021-03-29T12:27:28[ WARN ] : Machine: AMD64
+2021-03-29T12:27:28[ WARN ] : Processor: AMD64 Family 16 Model 6 Stepping 3, AuthenticAMD
+2021-03-29T12:27:28[ GAME ] : Setting self.exclusive = False
+2021-03-29T12:27:28[ GAME ] : Setting self.flying = False
+2021-03-29T12:27:28[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T12:27:29[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T12:27:29[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T12:27:29[ GAME ] : Setting self.sector = None
+2021-03-29T12:27:29[ GAME ] : Setting self.reticle = None
+2021-03-29T12:27:29[ GAME ] : Setting self.dy = 0
+2021-03-29T12:27:29[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T12:27:29[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T12:27:31[ WARN ] : Fog Disabled !
+2021-03-29T12:30:14[ GAME ] : Game finished
+2021-03-29T12:30:14[ GAME ] : Shutting Down.
+2021-03-29T12:30:30[ GAME ] : Setting Max Framerate to 60
+2021-03-29T12:30:30[ GAME ] : Setting Render Distance to 16
+2021-03-29T12:30:30[ GAME ] : Setting walking speed to 7
+2021-03-29T12:30:30[ GAME ] : Setting gravity to 20.0
+2021-03-29T12:30:30[ GAME ] : Setting Fog to False
+2021-03-29T12:30:31[ WARN ] : Launching Game !
+2021-03-29T12:30:31[ WARN ] : System Information
+2021-03-29T12:30:31[ WARN ] : System: Windows
+2021-03-29T12:30:31[ WARN ] : Node Name: C304-P02
+2021-03-29T12:30:32[ WARN ] : Release: 7
+2021-03-29T12:30:32[ WARN ] : Version: 6.1.7601
+2021-03-29T12:30:32[ WARN ] : Machine: AMD64
+2021-03-29T12:30:32[ WARN ] : Processor: AMD64 Family 16 Model 6 Stepping 3, AuthenticAMD
+2021-03-29T12:30:32[ GAME ] : Setting self.exclusive = False
+2021-03-29T12:30:32[ GAME ] : Setting self.flying = False
+2021-03-29T12:30:32[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T12:30:32[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T12:30:32[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T12:30:32[ GAME ] : Setting self.sector = None
+2021-03-29T12:30:32[ GAME ] : Setting self.reticle = None
+2021-03-29T12:30:32[ GAME ] : Setting self.dy = 0
+2021-03-29T12:30:32[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T12:30:32[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T12:30:35[ WARN ] : Fog Disabled !
+2021-03-29T12:31:01[ GAME ] : Game finished
+2021-03-29T12:31:01[ GAME ] : Shutting Down.
+2021-03-29T12:32:19[ GAME ] : Setting Max Framerate to 60
+2021-03-29T12:32:19[ GAME ] : Setting Render Distance to 16
+2021-03-29T12:32:19[ GAME ] : Setting walking speed to 7
+2021-03-29T12:32:19[ GAME ] : Setting gravity to 20.0
+2021-03-29T12:32:19[ GAME ] : Setting Fog to False
+2021-03-29T12:32:20[ WARN ] : Launching Game !
+2021-03-29T12:32:20[ WARN ] : System Information
+2021-03-29T12:32:20[ WARN ] : System: Windows
+2021-03-29T12:32:20[ WARN ] : Node Name: C304-P02
+2021-03-29T12:32:20[ WARN ] : Release: 7
+2021-03-29T12:32:20[ WARN ] : Version: 6.1.7601
+2021-03-29T12:32:20[ WARN ] : Machine: AMD64
+2021-03-29T12:32:20[ WARN ] : Processor: AMD64 Family 16 Model 6 Stepping 3, AuthenticAMD
+2021-03-29T12:32:20[ GAME ] : Setting self.exclusive = False
+2021-03-29T12:32:20[ GAME ] : Setting self.flying = False
+2021-03-29T12:32:20[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T12:32:20[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T12:32:20[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T12:32:20[ GAME ] : Setting self.sector = None
+2021-03-29T12:32:20[ GAME ] : Setting self.reticle = None
+2021-03-29T12:32:20[ GAME ] : Setting self.dy = 0
+2021-03-29T12:32:21[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T12:32:21[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T12:32:25[ WARN ] : Fog Disabled !
+2021-03-29T12:32:44[ GAME ] : Game finished
+2021-03-29T12:32:45[ GAME ] : Shutting Down.
+2021-03-29T12:32:57[ GAME ] : Setting Max Framerate to 60
+2021-03-29T12:32:57[ GAME ] : Setting Render Distance to 16
+2021-03-29T12:32:57[ GAME ] : Setting walking speed to 7
+2021-03-29T12:32:57[ GAME ] : Setting gravity to 20.0
+2021-03-29T12:32:57[ GAME ] : Setting Fog to False
+2021-03-29T12:32:58[ WARN ] : Launching Game !
+2021-03-29T12:32:58[ WARN ] : System Information
+2021-03-29T12:32:58[ WARN ] : System: Windows
+2021-03-29T12:32:58[ WARN ] : Node Name: C304-P02
+2021-03-29T12:32:58[ WARN ] : Release: 7
+2021-03-29T12:32:58[ WARN ] : Version: 6.1.7601
+2021-03-29T12:32:58[ WARN ] : Machine: AMD64
+2021-03-29T12:32:58[ WARN ] : Processor: AMD64 Family 16 Model 6 Stepping 3, AuthenticAMD
+2021-03-29T12:32:58[ GAME ] : Setting self.exclusive = False
+2021-03-29T12:32:58[ GAME ] : Setting self.flying = False
+2021-03-29T12:32:58[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T12:32:58[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T12:32:58[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T12:32:58[ GAME ] : Setting self.sector = None
+2021-03-29T12:32:58[ GAME ] : Setting self.reticle = None
+2021-03-29T12:32:58[ GAME ] : Setting self.dy = 0
+2021-03-29T12:32:58[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T12:32:58[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T12:35:04[ WARN ] : Fog Disabled !
+2021-03-29T12:40:24[ GAME ] : Game finished
+2021-03-29T12:40:25[ GAME ] : Shutting Down.
+2021-03-29T20:51:23[ GAME ] : Setting Max Framerate to 60
+2021-03-29T20:51:23[ GAME ] : Setting Render Distance to 16
+2021-03-29T20:51:23[ GAME ] : Setting walking speed to 7
+2021-03-29T20:51:23[ GAME ] : Setting gravity to 20.0
+2021-03-29T20:51:23[ GAME ] : Setting Fog to False
+2021-03-29T20:51:24[ WARN ] : Launching Game !
+2021-03-29T20:51:24[ WARN ] : System Information
+2021-03-29T20:51:24[ WARN ] : System: Windows
+2021-03-29T20:51:24[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T20:51:24[ WARN ] : Release: 10
+2021-03-29T20:51:24[ WARN ] : Version: 10.0.19041
+2021-03-29T20:51:24[ WARN ] : Machine: AMD64
+2021-03-29T20:51:24[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T20:51:24[ GAME ] : Setting self.exclusive = False
+2021-03-29T20:51:24[ GAME ] : Setting self.flying = False
+2021-03-29T20:51:24[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T20:51:24[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T20:51:24[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T20:51:24[ GAME ] : Setting self.sector = None
+2021-03-29T20:51:24[ GAME ] : Setting self.reticle = None
+2021-03-29T20:51:24[ GAME ] : Setting self.dy = 0
+2021-03-29T20:51:24[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T20:51:24[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T20:51:25[ WARN ] : Fog Disabled !
+2021-03-29T20:51:56[ GAME ] : Game finished
+2021-03-29T20:51:56[ GAME ] : Shutting Down.
+2021-03-29T20:55:49[ GAME ] : Setting Max Framerate to 60
+2021-03-29T20:55:49[ GAME ] : Setting Render Distance to 16
+2021-03-29T20:55:49[ GAME ] : Setting walking speed to 7
+2021-03-29T20:55:49[ GAME ] : Setting gravity to 20.0
+2021-03-29T20:55:49[ GAME ] : Setting Fog to False
+2021-03-29T20:55:49[ WARN ] : Launching Game !
+2021-03-29T20:55:49[ WARN ] : System Information
+2021-03-29T20:55:49[ WARN ] : System: Windows
+2021-03-29T20:55:49[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T20:55:49[ WARN ] : Release: 10
+2021-03-29T20:55:49[ WARN ] : Version: 10.0.19041
+2021-03-29T20:55:49[ WARN ] : Machine: AMD64
+2021-03-29T20:55:49[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T20:55:49[ GAME ] : Setting self.exclusive = False
+2021-03-29T20:55:49[ GAME ] : Setting self.flying = False
+2021-03-29T20:55:49[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T20:55:49[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T20:55:49[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T20:55:49[ GAME ] : Setting self.sector = None
+2021-03-29T20:55:49[ GAME ] : Setting self.reticle = None
+2021-03-29T20:55:49[ GAME ] : Setting self.dy = 0
+2021-03-29T20:55:49[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T20:55:49[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T20:55:50[ WARN ] : Fog Disabled !
+2021-03-29T20:55:57[ GAME ] : Game finished
+2021-03-29T20:55:57[ GAME ] : Shutting Down.
+2021-03-29T20:56:08[ GAME ] : Setting Max Framerate to 60
+2021-03-29T20:56:08[ GAME ] : Setting Render Distance to 16
+2021-03-29T20:56:08[ GAME ] : Setting walking speed to 7
+2021-03-29T20:56:08[ GAME ] : Setting gravity to 20.0
+2021-03-29T20:56:08[ GAME ] : Setting Fog to False
+2021-03-29T20:56:09[ WARN ] : Launching Game !
+2021-03-29T20:56:09[ WARN ] : System Information
+2021-03-29T20:56:09[ WARN ] : System: Windows
+2021-03-29T20:56:09[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T20:56:09[ WARN ] : Release: 10
+2021-03-29T20:56:09[ WARN ] : Version: 10.0.19041
+2021-03-29T20:56:09[ WARN ] : Machine: AMD64
+2021-03-29T20:56:09[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T20:56:09[ GAME ] : Setting self.exclusive = False
+2021-03-29T20:56:09[ GAME ] : Setting self.flying = False
+2021-03-29T20:56:09[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T20:56:09[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T20:56:09[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T20:56:09[ GAME ] : Setting self.sector = None
+2021-03-29T20:56:09[ GAME ] : Setting self.reticle = None
+2021-03-29T20:56:09[ GAME ] : Setting self.dy = 0
+2021-03-29T20:56:09[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T20:56:09[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T20:56:09[ WARN ] : Fog Disabled !
+2021-03-29T20:56:24[ GAME ] : Game finished
+2021-03-29T20:56:24[ GAME ] : Shutting Down.
+2021-03-29T20:57:13[ GAME ] : Setting Max Framerate to 60
+2021-03-29T20:57:13[ GAME ] : Setting Render Distance to 16
+2021-03-29T20:57:13[ GAME ] : Setting walking speed to 7
+2021-03-29T20:57:13[ GAME ] : Setting gravity to 20.0
+2021-03-29T20:57:13[ GAME ] : Setting Fog to False
+2021-03-29T20:57:13[ WARN ] : Launching Game !
+2021-03-29T20:57:13[ WARN ] : System Information
+2021-03-29T20:57:13[ WARN ] : System: Windows
+2021-03-29T20:57:13[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T20:57:13[ WARN ] : Release: 10
+2021-03-29T20:57:13[ WARN ] : Version: 10.0.19041
+2021-03-29T20:57:13[ WARN ] : Machine: AMD64
+2021-03-29T20:57:13[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T20:57:13[ GAME ] : Setting self.exclusive = False
+2021-03-29T20:57:13[ GAME ] : Setting self.flying = False
+2021-03-29T20:57:13[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T20:57:13[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T20:57:14[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T20:57:14[ GAME ] : Setting self.sector = None
+2021-03-29T20:57:14[ GAME ] : Setting self.reticle = None
+2021-03-29T20:57:14[ GAME ] : Setting self.dy = 0
+2021-03-29T20:57:14[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T20:57:14[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T20:57:14[ WARN ] : Fog Disabled !
+2021-03-29T20:57:23[ GAME ] : Game finished
+2021-03-29T20:57:23[ GAME ] : Shutting Down.
+2021-03-29T20:58:36[ GAME ] : Setting Max Framerate to 60
+2021-03-29T20:58:36[ GAME ] : Setting Render Distance to 16
+2021-03-29T20:58:36[ GAME ] : Setting walking speed to 7
+2021-03-29T20:58:36[ GAME ] : Setting gravity to 20.0
+2021-03-29T20:58:36[ GAME ] : Setting Fog to False
+2021-03-29T20:58:36[ WARN ] : Launching Game !
+2021-03-29T20:58:36[ WARN ] : System Information
+2021-03-29T20:58:36[ WARN ] : System: Windows
+2021-03-29T20:58:36[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T20:58:36[ WARN ] : Release: 10
+2021-03-29T20:58:36[ WARN ] : Version: 10.0.19041
+2021-03-29T20:58:36[ WARN ] : Machine: AMD64
+2021-03-29T20:58:36[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T20:58:36[ GAME ] : Setting self.exclusive = False
+2021-03-29T20:58:36[ GAME ] : Setting self.flying = False
+2021-03-29T20:58:36[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T20:58:36[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T20:58:36[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T20:58:36[ GAME ] : Setting self.sector = None
+2021-03-29T20:58:36[ GAME ] : Setting self.reticle = None
+2021-03-29T20:58:36[ GAME ] : Setting self.dy = 0
+2021-03-29T20:58:36[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T20:58:36[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T20:58:37[ WARN ] : Fog Disabled !
+2021-03-29T20:58:53[ GAME ] : Game finished
+2021-03-29T20:58:53[ GAME ] : Shutting Down.
+2021-03-29T20:59:38[ GAME ] : Setting Max Framerate to 60
+2021-03-29T20:59:38[ GAME ] : Setting Render Distance to 16
+2021-03-29T20:59:38[ GAME ] : Setting walking speed to 7
+2021-03-29T20:59:38[ GAME ] : Setting gravity to 20.0
+2021-03-29T20:59:38[ GAME ] : Setting Fog to False
+2021-03-29T20:59:38[ WARN ] : Launching Game !
+2021-03-29T20:59:38[ WARN ] : System Information
+2021-03-29T20:59:38[ WARN ] : System: Windows
+2021-03-29T20:59:38[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T20:59:38[ WARN ] : Release: 10
+2021-03-29T20:59:38[ WARN ] : Version: 10.0.19041
+2021-03-29T20:59:38[ WARN ] : Machine: AMD64
+2021-03-29T20:59:38[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T20:59:38[ GAME ] : Setting self.exclusive = False
+2021-03-29T20:59:39[ GAME ] : Setting self.flying = False
+2021-03-29T20:59:39[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T20:59:39[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T20:59:39[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T20:59:39[ GAME ] : Setting self.sector = None
+2021-03-29T20:59:39[ GAME ] : Setting self.reticle = None
+2021-03-29T20:59:39[ GAME ] : Setting self.dy = 0
+2021-03-29T20:59:39[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T20:59:39[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T20:59:39[ WARN ] : Fog Disabled !
+2021-03-29T20:59:52[ GAME ] : Game finished
+2021-03-29T20:59:52[ GAME ] : Shutting Down.
+2021-03-29T21:00:01[ GAME ] : Setting Max Framerate to 60
+2021-03-29T21:00:01[ GAME ] : Setting Render Distance to 16
+2021-03-29T21:00:01[ GAME ] : Setting walking speed to 7
+2021-03-29T21:00:01[ GAME ] : Setting gravity to 20.0
+2021-03-29T21:00:01[ GAME ] : Setting Fog to False
+2021-03-29T21:00:02[ WARN ] : Launching Game !
+2021-03-29T21:00:02[ WARN ] : System Information
+2021-03-29T21:00:02[ WARN ] : System: Windows
+2021-03-29T21:00:02[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T21:00:02[ WARN ] : Release: 10
+2021-03-29T21:00:02[ WARN ] : Version: 10.0.19041
+2021-03-29T21:00:02[ WARN ] : Machine: AMD64
+2021-03-29T21:00:02[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T21:00:02[ GAME ] : Setting self.exclusive = False
+2021-03-29T21:00:02[ GAME ] : Setting self.flying = False
+2021-03-29T21:00:02[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T21:00:02[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T21:00:02[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T21:00:02[ GAME ] : Setting self.sector = None
+2021-03-29T21:00:02[ GAME ] : Setting self.reticle = None
+2021-03-29T21:00:02[ GAME ] : Setting self.dy = 0
+2021-03-29T21:00:02[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T21:00:02[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T21:00:14[ WARN ] : Fog Disabled !
+2021-03-29T21:00:54[ GAME ] : Game finished
+2021-03-29T21:00:54[ GAME ] : Shutting Down.
+2021-03-29T21:01:16[ GAME ] : Setting Max Framerate to 60
+2021-03-29T21:01:16[ GAME ] : Setting Render Distance to 64
+2021-03-29T21:01:16[ GAME ] : Setting walking speed to 7
+2021-03-29T21:01:16[ GAME ] : Setting gravity to 20.0
+2021-03-29T21:01:16[ GAME ] : Setting Fog to False
+2021-03-29T21:01:16[ WARN ] : Launching Game !
+2021-03-29T21:01:16[ WARN ] : System Information
+2021-03-29T21:01:16[ WARN ] : System: Windows
+2021-03-29T21:01:16[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T21:01:16[ WARN ] : Release: 10
+2021-03-29T21:01:16[ WARN ] : Version: 10.0.19041
+2021-03-29T21:01:16[ WARN ] : Machine: AMD64
+2021-03-29T21:01:16[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T21:01:16[ GAME ] : Setting self.exclusive = False
+2021-03-29T21:01:16[ GAME ] : Setting self.flying = False
+2021-03-29T21:01:16[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T21:01:16[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T21:01:16[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T21:01:16[ GAME ] : Setting self.sector = None
+2021-03-29T21:01:16[ GAME ] : Setting self.reticle = None
+2021-03-29T21:01:16[ GAME ] : Setting self.dy = 0
+2021-03-29T21:01:16[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T21:01:16[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T21:01:29[ WARN ] : Fog Disabled !
+2021-03-29T21:02:58[ GAME ] : Game finished
+2021-03-29T21:02:58[ GAME ] : Shutting Down.
+2021-03-29T21:03:17[ GAME ] : Setting Max Framerate to 60
+2021-03-29T21:03:17[ GAME ] : Setting Render Distance to 8
+2021-03-29T21:03:17[ GAME ] : Setting walking speed to 7
+2021-03-29T21:03:17[ GAME ] : Setting gravity to 20.0
+2021-03-29T21:03:17[ GAME ] : Setting Fog to True
+2021-03-29T21:04:29[ GAME ] : Setting Max Framerate to 60
+2021-03-29T21:04:29[ GAME ] : Setting Render Distance to 8
+2021-03-29T21:04:29[ GAME ] : Setting walking speed to 7
+2021-03-29T21:04:29[ GAME ] : Setting gravity to 20.0
+2021-03-29T21:04:29[ GAME ] : Setting Fog to True
+2021-03-29T21:04:29[ WARN ] : Launching Game !
+2021-03-29T21:04:29[ WARN ] : System Information
+2021-03-29T21:04:29[ WARN ] : System: Windows
+2021-03-29T21:04:29[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T21:04:29[ WARN ] : Release: 10
+2021-03-29T21:04:29[ WARN ] : Version: 10.0.19041
+2021-03-29T21:04:29[ WARN ] : Machine: AMD64
+2021-03-29T21:04:29[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T21:04:29[ GAME ] : Setting self.exclusive = False
+2021-03-29T21:04:29[ GAME ] : Setting self.flying = False
+2021-03-29T21:04:29[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T21:04:29[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T21:04:29[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T21:04:29[ GAME ] : Setting self.sector = None
+2021-03-29T21:04:29[ GAME ] : Setting self.reticle = None
+2021-03-29T21:04:29[ GAME ] : Setting self.dy = 0
+2021-03-29T21:04:29[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T21:04:30[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T21:04:41[ GAME ] : Setting FOG_START to 20.0
+2021-03-29T21:04:41[ GAME ] : Setting FOG_END to 60.0
+2021-03-29T21:04:41[ GAME ] : Game Started !
+2021-03-29T21:04:41[ WARN ] : Fog Enabled !
+2021-03-29T21:05:13[ GAME ] : Game finished
+2021-03-29T21:05:13[ GAME ] : Shutting Down.
+2021-03-29T21:06:30[ GAME ] : Setting Max Framerate to 60
+2021-03-29T21:06:30[ GAME ] : Setting Render Distance to 8
+2021-03-29T21:06:30[ GAME ] : Setting walking speed to 7
+2021-03-29T21:06:30[ GAME ] : Setting gravity to 20.0
+2021-03-29T21:06:30[ GAME ] : Setting Fog to True
+2021-03-29T21:06:31[ WARN ] : Launching Game !
+2021-03-29T21:06:31[ WARN ] : System Information
+2021-03-29T21:06:31[ WARN ] : System: Windows
+2021-03-29T21:06:31[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T21:06:31[ WARN ] : Release: 10
+2021-03-29T21:06:31[ WARN ] : Version: 10.0.19041
+2021-03-29T21:06:31[ WARN ] : Machine: AMD64
+2021-03-29T21:06:31[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T21:06:31[ GAME ] : Setting self.exclusive = False
+2021-03-29T21:06:31[ GAME ] : Setting self.flying = False
+2021-03-29T21:06:31[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T21:06:31[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T21:06:31[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T21:06:31[ GAME ] : Setting self.sector = None
+2021-03-29T21:06:31[ GAME ] : Setting self.reticle = None
+2021-03-29T21:06:31[ GAME ] : Setting self.dy = 0
+2021-03-29T21:06:31[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T21:06:31[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T21:06:31[ GAME ] : Setting FOG_START to 20.0
+2021-03-29T21:06:31[ GAME ] : Setting FOG_END to 60.0
+2021-03-29T21:06:31[ GAME ] : Game Started !
+2021-03-29T21:06:31[ WARN ] : Fog Enabled !
+2021-03-29T21:06:56[ GAME ] : Game finished
+2021-03-29T21:06:56[ GAME ] : Shutting Down.
+2021-03-29T21:07:06[ GAME ] : Setting Max Framerate to 60
+2021-03-29T21:07:06[ GAME ] : Setting Render Distance to 8
+2021-03-29T21:07:06[ GAME ] : Setting walking speed to 7
+2021-03-29T21:07:06[ GAME ] : Setting gravity to 20.0
+2021-03-29T21:07:06[ GAME ] : Setting Fog to True
+2021-03-29T21:07:06[ WARN ] : Launching Game !
+2021-03-29T21:07:06[ WARN ] : System Information
+2021-03-29T21:07:06[ WARN ] : System: Windows
+2021-03-29T21:07:06[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T21:07:06[ WARN ] : Release: 10
+2021-03-29T21:07:06[ WARN ] : Version: 10.0.19041
+2021-03-29T21:07:06[ WARN ] : Machine: AMD64
+2021-03-29T21:07:06[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T21:07:07[ GAME ] : Setting self.exclusive = False
+2021-03-29T21:07:07[ GAME ] : Setting self.flying = False
+2021-03-29T21:07:07[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T21:07:07[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T21:07:07[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T21:07:07[ GAME ] : Setting self.sector = None
+2021-03-29T21:07:07[ GAME ] : Setting self.reticle = None
+2021-03-29T21:07:07[ GAME ] : Setting self.dy = 0
+2021-03-29T21:07:07[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T21:07:07[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T21:07:07[ GAME ] : Setting FOG_START to 20.0
+2021-03-29T21:07:07[ GAME ] : Setting FOG_END to 60.0
+2021-03-29T21:07:07[ GAME ] : Game Started !
+2021-03-29T21:07:07[ WARN ] : Fog Enabled !
+2021-03-29T21:07:22[ GAME ] : Game finished
+2021-03-29T21:07:22[ GAME ] : Shutting Down.
+2021-03-29T21:07:40[ GAME ] : Setting Max Framerate to 60
+2021-03-29T21:07:40[ GAME ] : Setting Render Distance to 8
+2021-03-29T21:07:40[ GAME ] : Setting walking speed to 7
+2021-03-29T21:07:40[ GAME ] : Setting gravity to 20.0
+2021-03-29T21:07:40[ GAME ] : Setting Fog to True
+2021-03-29T21:07:40[ WARN ] : Launching Game !
+2021-03-29T21:07:40[ WARN ] : System Information
+2021-03-29T21:07:41[ WARN ] : System: Windows
+2021-03-29T21:07:41[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T21:07:41[ WARN ] : Release: 10
+2021-03-29T21:07:41[ WARN ] : Version: 10.0.19041
+2021-03-29T21:07:41[ WARN ] : Machine: AMD64
+2021-03-29T21:07:41[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T21:07:41[ GAME ] : Setting self.exclusive = False
+2021-03-29T21:07:41[ GAME ] : Setting self.flying = False
+2021-03-29T21:07:41[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T21:07:41[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T21:07:41[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T21:07:41[ GAME ] : Setting self.sector = None
+2021-03-29T21:07:41[ GAME ] : Setting self.reticle = None
+2021-03-29T21:07:41[ GAME ] : Setting self.dy = 0
+2021-03-29T21:07:41[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T21:07:41[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T21:07:41[ GAME ] : Setting FOG_START to 20.0
+2021-03-29T21:07:41[ GAME ] : Setting FOG_END to 60.0
+2021-03-29T21:07:41[ GAME ] : Game Started !
+2021-03-29T21:07:41[ WARN ] : Fog Enabled !
+2021-03-29T21:07:58[ GAME ] : Game finished
+2021-03-29T21:07:58[ GAME ] : Shutting Down.
+2021-03-29T21:08:04[ GAME ] : Setting Max Framerate to 60
+2021-03-29T21:08:04[ GAME ] : Setting Render Distance to 8
+2021-03-29T21:08:04[ GAME ] : Setting walking speed to 7
+2021-03-29T21:08:04[ GAME ] : Setting gravity to 20.0
+2021-03-29T21:08:04[ GAME ] : Setting Fog to True
+2021-03-29T21:08:04[ WARN ] : Launching Game !
+2021-03-29T21:08:04[ WARN ] : System Information
+2021-03-29T21:08:04[ WARN ] : System: Windows
+2021-03-29T21:08:04[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T21:08:04[ WARN ] : Release: 10
+2021-03-29T21:08:05[ WARN ] : Version: 10.0.19041
+2021-03-29T21:08:05[ WARN ] : Machine: AMD64
+2021-03-29T21:08:05[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T21:08:05[ GAME ] : Setting self.exclusive = False
+2021-03-29T21:08:05[ GAME ] : Setting self.flying = False
+2021-03-29T21:08:05[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T21:08:05[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T21:08:05[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T21:08:05[ GAME ] : Setting self.sector = None
+2021-03-29T21:08:05[ GAME ] : Setting self.reticle = None
+2021-03-29T21:08:05[ GAME ] : Setting self.dy = 0
+2021-03-29T21:08:05[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T21:08:05[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T21:08:05[ GAME ] : Setting FOG_START to 20.0
+2021-03-29T21:08:05[ GAME ] : Setting FOG_END to 60.0
+2021-03-29T21:08:05[ GAME ] : Game Started !
+2021-03-29T21:08:05[ WARN ] : Fog Enabled !
+2021-03-29T21:08:25[ GAME ] : Game finished
+2021-03-29T21:08:25[ GAME ] : Shutting Down.
+2021-03-29T21:11:22[ GAME ] : Setting Max Framerate to 60
+2021-03-29T21:11:22[ GAME ] : Setting Render Distance to 8
+2021-03-29T21:11:22[ GAME ] : Setting walking speed to 7
+2021-03-29T21:11:22[ GAME ] : Setting gravity to 20.0
+2021-03-29T21:11:22[ GAME ] : Setting Fog to True
+2021-03-29T21:11:22[ WARN ] : Launching Game !
+2021-03-29T21:11:22[ WARN ] : System Information
+2021-03-29T21:11:22[ WARN ] : System: Windows
+2021-03-29T21:11:22[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T21:11:22[ WARN ] : Release: 10
+2021-03-29T21:11:22[ WARN ] : Version: 10.0.19041
+2021-03-29T21:11:22[ WARN ] : Machine: AMD64
+2021-03-29T21:11:22[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T21:11:22[ GAME ] : Setting self.exclusive = False
+2021-03-29T21:11:22[ GAME ] : Setting self.flying = False
+2021-03-29T21:11:22[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T21:11:22[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T21:11:22[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T21:11:22[ GAME ] : Setting self.sector = None
+2021-03-29T21:11:22[ GAME ] : Setting self.reticle = None
+2021-03-29T21:11:22[ GAME ] : Setting self.dy = 0
+2021-03-29T21:11:22[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T21:11:22[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T21:11:23[ GAME ] : Setting FOG_START to 20.0
+2021-03-29T21:11:23[ GAME ] : Setting FOG_END to 60.0
+2021-03-29T21:11:23[ GAME ] : Game Started !
+2021-03-29T21:11:23[ WARN ] : Fog Enabled !
+2021-03-29T21:11:40[ GAME ] : Game finished
+2021-03-29T21:11:41[ GAME ] : Shutting Down.
+2021-03-29T21:12:53[ GAME ] : Setting Max Framerate to 60
+2021-03-29T21:12:53[ GAME ] : Setting Render Distance to 8
+2021-03-29T21:12:53[ GAME ] : Setting walking speed to 7
+2021-03-29T21:12:53[ GAME ] : Setting gravity to 20.0
+2021-03-29T21:12:53[ GAME ] : Setting Fog to True
+2021-03-29T21:12:54[ WARN ] : Launching Game !
+2021-03-29T21:12:54[ WARN ] : System Information
+2021-03-29T21:12:54[ WARN ] : System: Windows
+2021-03-29T21:12:54[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T21:12:54[ WARN ] : Release: 10
+2021-03-29T21:12:54[ WARN ] : Version: 10.0.19041
+2021-03-29T21:12:54[ WARN ] : Machine: AMD64
+2021-03-29T21:12:54[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T21:12:54[ GAME ] : Setting self.exclusive = False
+2021-03-29T21:12:54[ GAME ] : Setting self.flying = False
+2021-03-29T21:12:54[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T21:12:54[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T21:12:54[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T21:12:54[ GAME ] : Setting self.sector = None
+2021-03-29T21:12:54[ GAME ] : Setting self.reticle = None
+2021-03-29T21:12:54[ GAME ] : Setting self.dy = 0
+2021-03-29T21:12:54[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T21:12:54[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T21:12:55[ GAME ] : Setting FOG_START to 20.0
+2021-03-29T21:12:55[ GAME ] : Setting FOG_END to 60.0
+2021-03-29T21:12:55[ GAME ] : Game Started !
+2021-03-29T21:12:55[ WARN ] : Fog Enabled !
+2021-03-29T21:13:25[ GAME ] : Game finished
+2021-03-29T21:13:25[ GAME ] : Shutting Down.
+2021-03-29T21:13:44[ GAME ] : Setting Max Framerate to 60
+2021-03-29T21:13:44[ GAME ] : Setting Render Distance to 8
+2021-03-29T21:13:44[ GAME ] : Setting walking speed to 7
+2021-03-29T21:13:44[ GAME ] : Setting gravity to 20.0
+2021-03-29T21:13:44[ GAME ] : Setting Fog to True
+2021-03-29T21:13:44[ WARN ] : Launching Game !
+2021-03-29T21:13:44[ WARN ] : System Information
+2021-03-29T21:13:44[ WARN ] : System: Windows
+2021-03-29T21:13:44[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T21:13:44[ WARN ] : Release: 10
+2021-03-29T21:13:44[ WARN ] : Version: 10.0.19041
+2021-03-29T21:13:44[ WARN ] : Machine: AMD64
+2021-03-29T21:13:44[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T21:13:45[ GAME ] : Setting self.exclusive = False
+2021-03-29T21:13:45[ GAME ] : Setting self.flying = False
+2021-03-29T21:13:45[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T21:13:45[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T21:13:45[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T21:13:45[ GAME ] : Setting self.sector = None
+2021-03-29T21:13:45[ GAME ] : Setting self.reticle = None
+2021-03-29T21:13:45[ GAME ] : Setting self.dy = 0
+2021-03-29T21:13:45[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T21:13:45[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T21:13:45[ GAME ] : Setting FOG_START to 20.0
+2021-03-29T21:13:45[ GAME ] : Setting FOG_END to 60.0
+2021-03-29T21:13:45[ GAME ] : Game Started !
+2021-03-29T21:13:45[ WARN ] : Fog Enabled !
+2021-03-29T21:13:55[ GAME ] : Game finished
+2021-03-29T21:13:55[ GAME ] : Shutting Down.
+2021-03-29T21:14:36[ GAME ] : Setting Max Framerate to 60
+2021-03-29T21:14:36[ GAME ] : Setting Render Distance to 8
+2021-03-29T21:14:36[ GAME ] : Setting walking speed to 7
+2021-03-29T21:14:36[ GAME ] : Setting gravity to 20.0
+2021-03-29T21:14:36[ GAME ] : Setting Fog to True
+2021-03-29T21:14:37[ WARN ] : Launching Game !
+2021-03-29T21:14:37[ WARN ] : System Information
+2021-03-29T21:14:37[ WARN ] : System: Windows
+2021-03-29T21:14:37[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T21:14:37[ WARN ] : Release: 10
+2021-03-29T21:14:37[ WARN ] : Version: 10.0.19041
+2021-03-29T21:14:37[ WARN ] : Machine: AMD64
+2021-03-29T21:14:37[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T21:14:37[ GAME ] : Setting self.exclusive = False
+2021-03-29T21:14:37[ GAME ] : Setting self.flying = False
+2021-03-29T21:14:37[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T21:14:37[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T21:14:37[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T21:14:37[ GAME ] : Setting self.sector = None
+2021-03-29T21:14:37[ GAME ] : Setting self.reticle = None
+2021-03-29T21:14:37[ GAME ] : Setting self.dy = 0
+2021-03-29T21:14:37[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T21:14:37[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T21:14:38[ GAME ] : Setting FOG_START to 20.0
+2021-03-29T21:14:38[ GAME ] : Setting FOG_END to 60.0
+2021-03-29T21:14:38[ GAME ] : Game Started !
+2021-03-29T21:14:38[ WARN ] : Fog Enabled !
+2021-03-29T21:15:07[ GAME ] : Game finished
+2021-03-29T21:15:07[ GAME ] : Shutting Down.
+2021-03-29T21:15:47[ GAME ] : Setting Max Framerate to 60
+2021-03-29T21:15:47[ GAME ] : Setting Render Distance to 8
+2021-03-29T21:15:47[ GAME ] : Setting walking speed to 7
+2021-03-29T21:15:47[ GAME ] : Setting gravity to 20.0
+2021-03-29T21:15:47[ GAME ] : Setting Fog to True
+2021-03-29T21:15:47[ WARN ] : Launching Game !
+2021-03-29T21:15:47[ WARN ] : System Information
+2021-03-29T21:15:47[ WARN ] : System: Windows
+2021-03-29T21:15:47[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T21:15:47[ WARN ] : Release: 10
+2021-03-29T21:15:47[ WARN ] : Version: 10.0.19041
+2021-03-29T21:15:47[ WARN ] : Machine: AMD64
+2021-03-29T21:15:47[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T21:15:47[ GAME ] : Setting self.exclusive = False
+2021-03-29T21:15:47[ GAME ] : Setting self.flying = False
+2021-03-29T21:15:47[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T21:15:47[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T21:15:47[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T21:15:47[ GAME ] : Setting self.sector = None
+2021-03-29T21:15:47[ GAME ] : Setting self.reticle = None
+2021-03-29T21:15:47[ GAME ] : Setting self.dy = 0
+2021-03-29T21:15:47[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T21:15:47[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T21:15:47[ GAME ] : Setting FOG_START to 20.0
+2021-03-29T21:15:48[ GAME ] : Setting FOG_END to 60.0
+2021-03-29T21:15:48[ GAME ] : Game Started !
+2021-03-29T21:15:48[ WARN ] : Fog Enabled !
+2021-03-29T21:15:53[ GAME ] : Game finished
+2021-03-29T21:15:53[ GAME ] : Shutting Down.
+2021-03-29T21:15:59[ GAME ] : Setting Max Framerate to 60
+2021-03-29T21:15:59[ GAME ] : Setting Render Distance to 8
+2021-03-29T21:15:59[ GAME ] : Setting walking speed to 7
+2021-03-29T21:15:59[ GAME ] : Setting gravity to 20.0
+2021-03-29T21:15:59[ GAME ] : Setting Fog to True
+2021-03-29T21:16:00[ WARN ] : Launching Game !
+2021-03-29T21:16:00[ WARN ] : System Information
+2021-03-29T21:16:00[ WARN ] : System: Windows
+2021-03-29T21:16:00[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T21:16:00[ WARN ] : Release: 10
+2021-03-29T21:16:00[ WARN ] : Version: 10.0.19041
+2021-03-29T21:16:00[ WARN ] : Machine: AMD64
+2021-03-29T21:16:00[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T21:16:00[ GAME ] : Setting self.exclusive = False
+2021-03-29T21:16:00[ GAME ] : Setting self.flying = False
+2021-03-29T21:16:00[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T21:16:00[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T21:16:00[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T21:16:00[ GAME ] : Setting self.sector = None
+2021-03-29T21:16:00[ GAME ] : Setting self.reticle = None
+2021-03-29T21:16:00[ GAME ] : Setting self.dy = 0
+2021-03-29T21:16:00[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T21:16:00[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T21:16:00[ WARN ] : Initializing World... This may take a moment
+2021-03-29T21:16:01[ GAME ] : Hills : 48
+2021-03-29T21:16:02[ WARN ] : Blocks :77074
+2021-03-29T21:16:02[ GAME ] : Setting FOG_START to 20.0
+2021-03-29T21:16:02[ GAME ] : Setting FOG_END to 60.0
+2021-03-29T21:16:02[ GAME ] : Game Started !
+2021-03-29T21:16:02[ WARN ] : Fog Enabled !
+2021-03-29T21:16:12[ GAME ] : Game finished
+2021-03-29T21:16:12[ GAME ] : Shutting Down.
+2021-03-29T21:16:23[ GAME ] : Setting Max Framerate to 60
+2021-03-29T21:16:23[ GAME ] : Setting Render Distance to 8
+2021-03-29T21:16:23[ GAME ] : Setting walking speed to 7
+2021-03-29T21:16:23[ GAME ] : Setting gravity to 20.0
+2021-03-29T21:16:23[ GAME ] : Setting Fog to True
+2021-03-29T21:16:23[ WARN ] : Launching Game !
+2021-03-29T21:16:23[ WARN ] : System Information
+2021-03-29T21:16:23[ WARN ] : System: Windows
+2021-03-29T21:16:23[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T21:16:23[ WARN ] : Release: 10
+2021-03-29T21:16:23[ WARN ] : Version: 10.0.19041
+2021-03-29T21:16:23[ WARN ] : Machine: AMD64
+2021-03-29T21:16:23[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T21:16:23[ GAME ] : Setting self.exclusive = False
+2021-03-29T21:16:23[ GAME ] : Setting self.flying = False
+2021-03-29T21:16:23[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T21:16:24[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T21:16:24[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T21:16:24[ GAME ] : Setting self.sector = None
+2021-03-29T21:16:24[ GAME ] : Setting self.reticle = None
+2021-03-29T21:16:24[ GAME ] : Setting self.dy = 0
+2021-03-29T21:16:24[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T21:16:24[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T21:16:24[ GAME ] : Setting FOG_START to 20.0
+2021-03-29T21:16:24[ GAME ] : Setting FOG_END to 60.0
+2021-03-29T21:16:24[ GAME ] : Game Started !
+2021-03-29T21:16:24[ WARN ] : Fog Enabled !
+2021-03-29T21:16:34[ GAME ] : Game finished
+2021-03-29T21:16:35[ GAME ] : Shutting Down.
+2021-03-29T21:16:40[ GAME ] : Setting Max Framerate to 60
+2021-03-29T21:16:40[ GAME ] : Setting Render Distance to 8
+2021-03-29T21:16:40[ GAME ] : Setting walking speed to 7
+2021-03-29T21:16:40[ GAME ] : Setting gravity to 20.0
+2021-03-29T21:16:40[ GAME ] : Setting Fog to True
+2021-03-29T21:16:40[ WARN ] : Launching Game !
+2021-03-29T21:16:40[ WARN ] : System Information
+2021-03-29T21:16:40[ WARN ] : System: Windows
+2021-03-29T21:16:40[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-29T21:16:40[ WARN ] : Release: 10
+2021-03-29T21:16:40[ WARN ] : Version: 10.0.19041
+2021-03-29T21:16:40[ WARN ] : Machine: AMD64
+2021-03-29T21:16:40[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-29T21:16:41[ GAME ] : Setting self.exclusive = False
+2021-03-29T21:16:41[ GAME ] : Setting self.flying = False
+2021-03-29T21:16:41[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-29T21:16:41[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-29T21:16:41[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-29T21:16:41[ GAME ] : Setting self.sector = None
+2021-03-29T21:16:41[ GAME ] : Setting self.reticle = None
+2021-03-29T21:16:41[ GAME ] : Setting self.dy = 0
+2021-03-29T21:16:41[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-29T21:16:41[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-29T21:16:41[ GAME ] : Setting FOG_START to 20.0
+2021-03-29T21:16:41[ GAME ] : Setting FOG_END to 60.0
+2021-03-29T21:16:41[ GAME ] : Game Started !
+2021-03-29T21:16:41[ WARN ] : Fog Enabled !
+2021-03-29T21:17:11[ GAME ] : Game finished
+2021-03-29T21:17:11[ GAME ] : Shutting Down.
+2021-03-30T09:16:02[ GAME ] : Setting Max Framerate to 60
+2021-03-30T09:16:02[ GAME ] : Setting Render Distance to 8
+2021-03-30T09:16:02[ GAME ] : Setting walking speed to 7
+2021-03-30T09:16:02[ GAME ] : Setting gravity to 20.0
+2021-03-30T09:16:02[ GAME ] : Setting Fog to True
+2021-03-30T09:16:03[ WARN ] : Launching Game !
+2021-03-30T09:16:03[ WARN ] : System Information
+2021-03-30T09:16:03[ WARN ] : System: Windows
+2021-03-30T09:16:03[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-30T09:16:03[ WARN ] : Release: 10
+2021-03-30T09:16:03[ WARN ] : Version: 10.0.19041
+2021-03-30T09:16:03[ WARN ] : Machine: AMD64
+2021-03-30T09:16:03[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-30T09:16:03[ GAME ] : Setting self.exclusive = False
+2021-03-30T09:16:03[ GAME ] : Setting self.flying = False
+2021-03-30T09:16:03[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-30T09:16:03[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-30T09:16:03[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-30T09:16:04[ GAME ] : Setting self.sector = None
+2021-03-30T09:16:04[ GAME ] : Setting self.reticle = None
+2021-03-30T09:16:04[ GAME ] : Setting self.dy = 0
+2021-03-30T09:16:04[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-30T09:16:04[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-30T09:16:05[ GAME ] : Setting FOG_START to 20.0
+2021-03-30T09:16:05[ GAME ] : Setting FOG_END to 60.0
+2021-03-30T09:16:05[ GAME ] : Game Started !
+2021-03-30T09:16:05[ WARN ] : Fog Enabled !
+2021-03-30T09:16:45[ GAME ] : Game finished
+2021-03-30T09:16:45[ GAME ] : Shutting Down.
+2021-03-30T09:17:03[ GAME ] : Setting Max Framerate to 60
+2021-03-30T09:17:03[ GAME ] : Setting Render Distance to 8
+2021-03-30T09:17:03[ GAME ] : Setting walking speed to 7
+2021-03-30T09:17:03[ GAME ] : Setting gravity to 20.0
+2021-03-30T09:17:03[ GAME ] : Setting Fog to True
+2021-03-30T09:17:03[ WARN ] : Launching Game !
+2021-03-30T09:17:03[ WARN ] : System Information
+2021-03-30T09:17:04[ WARN ] : System: Windows
+2021-03-30T09:17:04[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-30T09:17:04[ WARN ] : Release: 10
+2021-03-30T09:17:04[ WARN ] : Version: 10.0.19041
+2021-03-30T09:17:04[ WARN ] : Machine: AMD64
+2021-03-30T09:17:04[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-30T09:17:04[ GAME ] : Setting self.exclusive = False
+2021-03-30T09:17:04[ GAME ] : Setting self.flying = False
+2021-03-30T09:17:04[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-30T09:17:04[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-30T09:17:04[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-30T09:17:04[ GAME ] : Setting self.sector = None
+2021-03-30T09:17:04[ GAME ] : Setting self.reticle = None
+2021-03-30T09:17:04[ GAME ] : Setting self.dy = 0
+2021-03-30T09:17:04[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-30T09:17:04[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-30T09:17:04[ GAME ] : Setting FOG_START to 20.0
+2021-03-30T09:17:05[ GAME ] : Setting FOG_END to 60.0
+2021-03-30T09:17:05[ GAME ] : Game Started !
+2021-03-30T09:17:05[ WARN ] : Fog Enabled !
+2021-03-30T09:18:00[ GAME ] : Game finished
+2021-03-30T09:18:00[ GAME ] : Shutting Down.
+2021-03-30T11:26:05[ GAME ] : Setting Max Framerate to 60
+2021-03-30T11:26:05[ GAME ] : Setting Render Distance to 8
+2021-03-30T11:26:05[ GAME ] : Setting walking speed to 7
+2021-03-30T11:26:05[ GAME ] : Setting gravity to 20.0
+2021-03-30T11:26:05[ GAME ] : Setting Fog to True
+2021-03-30T11:26:05[ WARN ] : Launching Game !
+2021-03-30T11:26:05[ WARN ] : System Information
+2021-03-30T11:26:05[ WARN ] : System: Windows
+2021-03-30T11:26:05[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-30T11:26:06[ WARN ] : Release: 10
+2021-03-30T11:26:06[ WARN ] : Version: 10.0.19041
+2021-03-30T11:26:06[ WARN ] : Machine: AMD64
+2021-03-30T11:26:06[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-30T11:26:06[ GAME ] : Setting self.exclusive = False
+2021-03-30T11:26:06[ GAME ] : Setting self.flying = False
+2021-03-30T11:26:06[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-30T11:26:06[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-30T11:26:06[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-30T11:26:06[ GAME ] : Setting self.sector = None
+2021-03-30T11:26:06[ GAME ] : Setting self.reticle = None
+2021-03-30T11:26:06[ GAME ] : Setting self.dy = 0
+2021-03-30T11:26:06[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-30T11:26:06[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-30T11:26:06[ GAME ] : Setting FOG_START to 20.0
+2021-03-30T11:26:06[ GAME ] : Setting FOG_END to 60.0
+2021-03-30T11:26:06[ GAME ] : Game Started !
+2021-03-30T11:26:07[ WARN ] : Fog Enabled !
+2021-03-30T11:35:33[ GAME ] : Game finished
+2021-03-30T11:35:33[ GAME ] : Shutting Down.
+2021-03-30T11:36:11[ GAME ] : Setting Max Framerate to 60
+2021-03-30T11:36:11[ GAME ] : Setting Render Distance to 8
+2021-03-30T11:36:11[ GAME ] : Setting walking speed to 7
+2021-03-30T11:36:11[ GAME ] : Setting gravity to 20.0
+2021-03-30T11:36:11[ GAME ] : Setting Fog to True
+2021-03-30T11:36:11[ WARN ] : Launching Game !
+2021-03-30T11:36:11[ WARN ] : System Information
+2021-03-30T11:36:11[ WARN ] : System: Windows
+2021-03-30T11:36:11[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-30T11:36:11[ WARN ] : Release: 10
+2021-03-30T11:36:11[ WARN ] : Version: 10.0.19041
+2021-03-30T11:36:11[ WARN ] : Machine: AMD64
+2021-03-30T11:36:11[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-30T11:36:11[ GAME ] : Setting self.exclusive = False
+2021-03-30T11:36:11[ GAME ] : Setting self.flying = False
+2021-03-30T11:36:11[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-30T11:36:11[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-30T11:36:11[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-30T11:36:11[ GAME ] : Setting self.sector = None
+2021-03-30T11:36:11[ GAME ] : Setting self.reticle = None
+2021-03-30T11:36:11[ GAME ] : Setting self.dy = 0
+2021-03-30T11:36:11[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-30T11:36:11[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-30T11:36:12[ GAME ] : Setting FOG_START to 20.0
+2021-03-30T11:36:12[ GAME ] : Setting FOG_END to 60.0
+2021-03-30T11:36:12[ GAME ] : Game Started !
+2021-03-30T11:36:12[ WARN ] : Fog Enabled !
+2021-03-30T11:36:22[ GAME ] : Game finished
+2021-03-30T11:36:22[ GAME ] : Shutting Down.
+2021-03-30T11:44:20[ GAME ] : Setting Max Framerate to 60
+2021-03-30T11:44:20[ GAME ] : Setting Render Distance to 8
+2021-03-30T11:44:20[ GAME ] : Setting walking speed to 7
+2021-03-30T11:44:20[ GAME ] : Setting gravity to 20.0
+2021-03-30T11:44:20[ GAME ] : Setting Fog to True
+2021-03-30T11:44:20[ WARN ] : Launching Game !
+2021-03-30T11:44:20[ WARN ] : System Information
+2021-03-30T11:44:20[ WARN ] : System: Windows
+2021-03-30T11:44:20[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-30T11:44:20[ WARN ] : Release: 10
+2021-03-30T11:44:20[ WARN ] : Version: 10.0.19041
+2021-03-30T11:44:20[ WARN ] : Machine: AMD64
+2021-03-30T11:44:20[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-30T11:44:20[ GAME ] : Setting self.exclusive = False
+2021-03-30T11:44:20[ GAME ] : Setting self.flying = False
+2021-03-30T11:44:20[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-30T11:44:20[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-30T11:44:20[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-30T11:44:20[ GAME ] : Setting self.sector = None
+2021-03-30T11:44:20[ GAME ] : Setting self.reticle = None
+2021-03-30T11:44:20[ GAME ] : Setting self.dy = 0
+2021-03-30T11:44:20[ GAME ] : Setting self.inventory = [BRICK, GRASS, SAND, DIRT]
+2021-03-30T11:44:20[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-30T11:44:21[ GAME ] : Setting FOG_START to 20.0
+2021-03-30T11:44:21[ GAME ] : Setting FOG_END to 60.0
+2021-03-30T11:44:21[ GAME ] : Game Started !
+2021-03-30T11:44:21[ WARN ] : Fog Enabled !
+2021-03-30T11:44:28[ GAME ] : Game finished
+2021-03-30T11:44:28[ GAME ] : Shutting Down.
+2021-03-30T13:31:22[ GAME ] : Setting Max Framerate to 60
+2021-03-30T13:31:22[ GAME ] : Setting Render Distance to 8
+2021-03-30T13:31:22[ GAME ] : Setting walking speed to 7
+2021-03-30T13:31:22[ GAME ] : Setting gravity to 20.0
+2021-03-30T13:31:22[ GAME ] : Setting Fog to True
+2021-03-30T13:31:23[ WARN ] : Launching Game !
+2021-03-30T13:31:23[ WARN ] : System Information
+2021-03-30T13:31:23[ WARN ] : System: Windows
+2021-03-30T13:31:23[ WARN ] : Node Name: DESKTOP-DHP8CR4
+2021-03-30T13:31:23[ WARN ] : Release: 10
+2021-03-30T13:31:23[ WARN ] : Version: 10.0.19041
+2021-03-30T13:31:23[ WARN ] : Machine: AMD64
+2021-03-30T13:31:23[ WARN ] : Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+2021-03-30T13:31:23[ GAME ] : Setting self.exclusive = False
+2021-03-30T13:31:23[ GAME ] : Setting self.flying = False
+2021-03-30T13:31:23[ GAME ] : Setting self.strafe = [0, 0]
+2021-03-30T13:31:23[ GAME ] : Setting self.position = (0, 1, 0)
+2021-03-30T13:31:23[ GAME ] : Setting self.rotation = (0, 0)
+2021-03-30T13:31:23[ GAME ] : Setting self.sector = None
+2021-03-30T13:31:23[ GAME ] : Setting self.reticle = None
+2021-03-30T13:31:23[ GAME ] : Setting self.dy = 0
+2021-03-30T13:31:23[ GAME ] : Setting self.block = self.inventory[0]
+2021-03-30T13:31:24[ GAME ] : Setting FOG_START to 20.0
+2021-03-30T13:31:24[ GAME ] : Setting FOG_END to 60.0
+2021-03-30T13:31:24[ GAME ] : Game Started !
+2021-03-30T13:31:24[ WARN ] : Fog Enabled !
+2021-03-30T13:32:30[ GAME ] : Game finished
+2021-03-30T13:32:30[ GAME ] : Shutting Down.
