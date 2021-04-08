@@ -7,8 +7,8 @@ WASD for move, TAB for toggle Fly.
 
 """
 from __future__ import division
-from var import *
-from logs import *
+from modules.var import *
+from modules.logs import *
 
 import sys
 import psutil
@@ -28,8 +28,35 @@ JUMP_SPEED = math.sqrt(2 * GRAVITY * MAX_JUMP_HEIGHT)
 TERMINAL_VELOCITY = 50
 
 PLAYER_HEIGHT = 2
-
+#Overworld
 class Perlin:
+    def __call__(self,x,y): return int(sum(self.noise(x*s,y*s)*h for s,h in self.perlins)*self.avg)
+    def __init__(self):
+        lissage = 32000
+        lissage2 = lissage *2
+        self.m = 131072; p = list(range(self.m)); random.shuffle(p); self.p = p+p
+        p = self.perlins = tuple((1/i,i) for i in (32, 64) for j in range(2)) #,20,22,31,32,64,512, 1024
+        self.avg = 16*len(p)/sum(f+i for f,i in p)
+
+    def fade(self,t): return t*t*t*(t*(t*6-15)+10)
+    def lerp(self,t,a,b): return a+t*(b-a)
+    def grad(self,hash,x,y,z):
+        h = hash&15; u = y if h&8 else x
+        v = (x if h==12 or h==14 else z) if h&12 else y
+        return (u if h&1 else -u)+(v if h&2 else -v)
+
+    def noise(self,x,y,z=0):
+        p,fade,lerp,grad = self.p,self.fade,self.lerp,self.grad
+        xf,yf,zf = math.floor(x),math.floor(y),math.floor(z)
+        X,Y,Z = xf%self.m,yf%self.m,zf%self.m
+        x-=xf; y-=yf; z-=zf
+        u,v,w = fade(x),fade(y),fade(z)
+        A = p[X  ]+Y; AA = p[A]+Z; AB = p[A+1]+Z
+        B = p[X+1]+Y; BA = p[B]+Z; BB = p[B+1]+Z
+        return lerp(w,lerp(v,lerp(u,grad(p[AA],x,y,z),grad(p[BA],x-1,y,z)),lerp(u,grad(p[AB],x,y-1,z),grad(p[BB],x-1,y-1,z))),
+                      lerp(v,lerp(u,grad(p[AA+1],x,y,z-1),grad(p[BA+1],x-1,y,z-1)),lerp(u,grad(p[AB+1],x,y-1,z-1),grad(p[BB+1],x-1,y-1,z-1))))
+#Nether
+class PerlinNether:
     def __call__(self,x,y): return int(sum(self.noise(x*s,y*s)*h for s,h in self.perlins)*self.avg)
     def __init__(self):
         self.m = 131072; p = list(range(self.m)); random.shuffle(p); self.p = p+p
@@ -54,14 +81,13 @@ class Perlin:
         B = p[X+1]+Y; BA = p[B]+Z; BB = p[B+1]+Z
         return lerp(w,lerp(v,lerp(u,grad(p[AA],x,y,z),grad(p[BA],x-1,y,z)),lerp(u,grad(p[AB],x,y-1,z),grad(p[BB],x-1,y-1,z))),
                       lerp(v,lerp(u,grad(p[AA+1],x,y,z-1),grad(p[BA+1],x-1,y,z-1)),lerp(u,grad(p[AB+1],x,y-1,z-1),grad(p[BB+1],x-1,y-1,z-1))))
-
-class Perlin2:
+class PerlinCave:
     def __call__(self,x,y): return int(sum(self.noise(x*s,y*s)*h for s,h in self.perlins)*self.avg)
     def __init__(self):
         self.m = 131072; p = list(range(self.m)); random.shuffle(p); self.p = p+p
-        p = self.perlins = tuple((1/i,i) for i in (32, 64, 128) for j in range(2)) #,20,22,31,32,64,512, 1024
+        p = self.perlins = tuple((1/i,i) for i in (16, 32) for j in range(2)) #,20,22,31,32,64,512, 1024
         
-        self.avg = 32*len(p)/sum(f+i for f,i in p)
+        self.avg = 16*len(p)/sum(f+i for f,i in p)
 
     def fade(self,t): return t*t*t*(t*(t*6-15)+10)
     def lerp(self,t,a,b): return a+t*(b-a)
@@ -81,6 +107,11 @@ class Perlin2:
         return lerp(w,lerp(v,lerp(u,grad(p[AA],x,y,z),grad(p[BA],x-1,y,z)),lerp(u,grad(p[AB],x,y-1,z),grad(p[BB],x-1,y-1,z))),
                       lerp(v,lerp(u,grad(p[AA+1],x,y,z-1),grad(p[BA+1],x-1,y,z-1)),lerp(u,grad(p[AB+1],x,y-1,z-1),grad(p[BB+1],x-1,y-1,z-1))))
 
+
+def invertNumbers(nb):
+    nb2 = nb*2
+    nb3 = nb - nb2
+    return nb3
 
 if sys.version_info[0] >= 3:
     xrange = range
@@ -123,7 +154,7 @@ def tex_coords(top, bottom, side):
     return result
 
 
-TEXTURE_PATH = 'texture.png'
+TEXTURE_PATH = 'ressourcepacks/' + textures_image
 #HAUT, BAS, COTE
 GRASS = tex_coords((0, 1), (1, 0), (0, 0))
 SAND = tex_coords((1, 1), (1, 1), (1, 1))
@@ -143,6 +174,15 @@ NETHERRACK = tex_coords((5, 0),(5, 0),(5, 0))
 LAVA_SOURCE = tex_coords((4, 0),(4, 0),(4, 0))
 COBBLESTONE = tex_coords((4, 1),(4, 1),(4, 1))
 OAK_PLANKS = tex_coords((6, 0),(6, 0),(6, 0))
+MOSSY_STONE_BRICKS = tex_coords((4, 2),(4, 2),(4, 2))
+STONE_BRICKS = tex_coords((4, 3),(4, 3),(4, 3))
+OBSIDIAN = tex_coords((5, 1),(5, 1),(5, 1))
+SNOW_BLOCK = tex_coords((0, 4),(0, 4),(0, 4))
+SNOW_GRASS = tex_coords((0,4), (1,0), (1,4))
+SPRUCE_LOG = tex_coords((3, 4), (3,4),(2,4))
+SPRUCE_LEAVES = tex_coords((4,4),(4,4),(4,4))
+MAGMA_BLOCK = tex_coords((4,3),(4,3),(4,3))
+
 
 """
 
@@ -244,9 +284,12 @@ class Model(object):
             self._initialize_2()
         elif world == 3 :
             self._initialize_3()
-        
+        elif world == 4 :
+            self._initialize_4()
+        elif world == 5 :
+            self._initialize_5()
     def _initialize_1(self):
-        
+        logs.log(1, "World Generation : N00B")
         blocks = 0
         logs.log(2, "Initializing World... This may take a moment")
         n = 80  # 1/2 width and height of world
@@ -329,7 +372,9 @@ class Model(object):
                                 continue
                             self.add_block((x, y, z), t, immediate=False)
                     s -= d  # decrement side length so hills taper off
-        logs.log(2, "Blocks :" + str(blocks)) 
+        logs.log(2, "Blocks :" + str(blocks))
+
+        
     def createTree(self,x, y, z, biome):
         if biome == "oak":
             self.add_block((x, y, z), OAK_LOG, immediate=False)
@@ -362,33 +407,69 @@ class Model(object):
             for a in range(x-1, x+2):
                 for b in range(z-1, z+2):
                     self.add_block((a, y+7, b), FIRE_OAK_LEAVES, immediate=False)
+        elif biome == "snow":
+            for aaa in range(x-2, x+3):
+                for bbb in range(z-2, z+3):
+                    self.add_block((aaa, y+4, bbb), SPRUCE_LEAVES, immediate=False)
+                    self.add_block((aaa, y+6, bbb), SPRUCE_LEAVES, immediate=False)
+            self.add_block((x+1, y+5, z), SPRUCE_LEAVES, immediate=False)
+            self.add_block((x, y+5, z+1), SPRUCE_LEAVES, immediate=False)
+            self.add_block((x-1, y+5, z), SPRUCE_LEAVES, immediate=False)
+            self.add_block((x, y+5, z-1), SPRUCE_LEAVES, immediate=False)
+            
+            self.add_block((x+1, y+7, z), SPRUCE_LEAVES, immediate=False)
+            self.add_block((x, y+7, z+1), SPRUCE_LEAVES, immediate=False)
+            self.add_block((x-1, y+7, z), SPRUCE_LEAVES, immediate=False)
+            self.add_block((x, y+7, z-1), SPRUCE_LEAVES, immediate=False)
+            self.add_block((x, y+8, z), SPRUCE_LEAVES, immediate=False)
+            self.add_block((x, y+7, z), SPRUCE_LOG, immediate=False)
 
+            self.add_block((x, y, z), SPRUCE_LOG, immediate=False)
+            self.add_block((x, y+1, z), SPRUCE_LOG, immediate=False)
+            self.add_block((x, y+2, z), SPRUCE_LOG, immediate=False)
+            self.add_block((x, y+3, z), SPRUCE_LOG, immediate=False)
+            self.add_block((x, y+4, z), SPRUCE_LOG, immediate=False)
+            self.add_block((x, y+5, z), SPRUCE_LOG, immediate=False)
+            self.add_block((x, y+6, z), SPRUCE_LOG, immediate=False)
+            
+
+
+
+    
     def _initialize_2(self):
-        mapmaker = 64
+        logs.log(1, "World Generation : Realistic World Generation")
+        _mapmaker = 128
+        mapmaker = _mapmaker // 2
+        block = 0
         perlin = Perlin()
-        for x in range(mapmaker):
-            for z in range(mapmaker):
+        perlin1 = PerlinNether()
+        logs.log(1, "Generation : 1/4")
+        for x in range(-mapmaker, mapmaker):
+            for z in range(-mapmaker, mapmaker):
                 self.add_block((x, -4, z), WATER_SOURCE, immediate=False)
                 self.add_block((x, -5, z), SAND, immediate=False)
                 self.add_block((x, -6, z), STONE, immediate=False)
                 for count in range(-20, -6):
                     mi = random.randint(1, 100)
-                    if mi == 15 or mi == 25 or mi == 35 or mi == 45 or mi == 55 :
-                        self.add_block((x, count, z), COAL_ORE, immediate=False)
-                    elif mi == 20 or mi == 80 :
-                        self.add_block((x, count, z), IRON_ORE, immediate=False)
-                    elif mi == 75 :
-                        self.add_block((x, count, z), GOLD_ORE, immediate=False)
-                    elif mi == 60 :
-                        self.add_block((x, count, z), DIAMOND_ORE, immediate=False)
-                    else :
-                        self.add_block((x, count, z), STONE, immediate=False)
+                    if count > -21 :
+                        if mi == 15 or mi == 25 or mi == 35 or mi == 45 or mi == 55 :
+                            self.add_block((x, count, z), COAL_ORE, immediate=False)
+                        elif mi == 20 or mi == 80 :
+                            self.add_block((x, count, z), IRON_ORE, immediate=False)
+                        elif mi == 75 :
+                            self.add_block((x, count, z), GOLD_ORE, immediate=False)
+                        elif mi == 60 :
+                            self.add_block((x, count, z), DIAMOND_ORE, immediate=False)
+                        else :
+                            self.add_block((x, count, z), STONE, immediate=False)
                 self.add_block((x, -21, z), BEDROCK, immediate=False)
-        for x in range(mapmaker):
-            for z in range(mapmaker):
+        logs.log(1, "Generation : 2/4")
+        for x in range(-mapmaker, mapmaker):
+            for z in range(-mapmaker, mapmaker):
                 mk = random.randint(1, 200)
                 y = perlin(x,z)
                 mw = random.randint(1, 50)
+                zw = random.randint(1, 3)
                 if mw == 25 or mw == 30:
                     self.add_block((x, y-6, z), GLOWSTONE, immediate=False)
                 elif mw == 1 :
@@ -397,7 +478,24 @@ class Model(object):
                     self.add_block((x, y, z), SAND, immediate=False)
                 elif y < -3 :
                     self.add_block((x, y, z), STONE, immediate=False)
-                    
+                    gen1 = random.randint(1, 100)
+                    if gen1 == 34 or gen1 == 35 or gen1 == 46 or gen1 == 88 or gen1 == 96 or gen1 == 20 or gen1 == 86 or gen1 == 2 :
+                        self.add_block((x, y, z), COAL_ORE, immediate=False)
+                    elif gen1 == 22 or gen1 == 90 :
+                        self.add_block((x, y, z), IRON_ORE, immediate=False)
+                    elif gen1 == 45 :
+                        self.add_block((x, y, z), GOLD_ORE, immediate=False)
+                    elif gen1 == 75 :
+                        self.add_block((x, y, z), DIAMOND_ORE, immediate=False)
+                elif y == 20 :
+                    if zw == 2 :
+                        self.add_block((x, y, z), SNOW_GRASS, immediate=False)
+                    else :
+                        self.add_block((x, y, z), GRASS, immediate=False)
+                elif y > 20 :
+                    self.add_block((x, y, z), SNOW_GRASS, immediate=False)
+                    if mk == 50 :
+                        self.createTree(x, y+1, z, "snow")
                 else :
                     self.add_block((x, y, z), GRASS, immediate=False)
                     if mk == 50 :
@@ -412,12 +510,38 @@ class Model(object):
                 if y > -1 :
                     self.add_block((x, y-4, z), DIRT, immediate=False)
                 self.add_block((x, y-5, z), STONE, immediate=False)
+        logs.log(1, "Generation : 3/4")
+        lava = -74
+        magma = lava + 1
+        underlava = lava -1
+        for x in range(-mapmaker, mapmaker):
+            for z in range(-mapmaker, mapmaker):
+                self.add_block((x, lava, z), LAVA_SOURCE, immediate=False)
+                self.add_block((x, underlava, z), MAGMA_BLOCK, immediate=False)
+        logs.log(1, "Generation : 4/4")
+        for x in range(-mapmaker, mapmaker):
+            for z in range(-mapmaker, mapmaker):
+                y = perlin1(x, z)
+                y2 = invertNumbers(y)
+                y3 = y - 70
+                if y3 == magma  or y3 == lava:
+                    self.add_block((x, y-70, z), MAGMA_BLOCK, immediate=False)
+                else :
+                    self.add_block((x, y-70, z), NETHERRACK, immediate=False)
+                self.add_block((x, y2-70, z), NETHERRACK, immediate=False)
+                self.add_block((x, y-69, z), NETHERRACK, immediate=False)
+                self.add_block((x, y-68, z), NETHERRACK, immediate=False)
+                self.add_block((x, y2-71, z), NETHERRACK, immediate=False)
+        logs.log(1, "Generation : Done !")
     def _initialize_3(self):
-        mapmaker = 64
+        logs.log(1, "World Generation : No water world generation")
+        _mapmaker = 64
+        mapmaker = _mapmaker // 2
         nether = True
         perlin = Perlin()
-        for x in range(mapmaker):
-            for z in range(mapmaker):
+        
+        for x in range(-mapmaker, mapmaker):
+            for z in range(-mapmaker, mapmaker):
                 mk = random.randint(1, 200)
                 y = perlin(x,z)
                 mw = random.randint(1, 50)
@@ -429,7 +553,51 @@ class Model(object):
                     self.createTree(x, y+1, z, "oak")
                 elif mk == 100 :
                     self.createTree(x, y+1, z, "bush")
-                  
+    def _initialize_4(self):
+        logs.log(1, "World Generation : Nether")
+        _mapmaker = 128
+        mapmaker = _mapmaker // 2
+        perlin = PerlinNether()
+        for x in range(-mapamaker, mapmaker):
+            for z in range(-mapamaker, mapmaker):
+                y = perlin(x, z)
+                y2 = invertNumbers(y)
+                self.add_block((x, y, z), NETHERRACK, immediate=False)
+                self.add_block((x, y2, z), NETHERRACK, immediate=False)
+                self.add_block((x, -6, z), LAVA_SOURCE, immediate=False)
+    def _initialize_5(self):
+        logs.log(1, "World Generation : Nether + No water")
+        _mapmaker = 256
+        mapmaker = _mapmaker // 2
+        perlin1 = PerlinNether()
+        perlin2 = Perlin()
+        for x in range(-mapmaker, mapmaker):
+            for z in range(-mapmaker, mapmaker):
+                y1 = perlin1(x, z)
+                y = perlin2(x, z)
+                y2 = invertNumbers(y1)
+                self.add_block((x, y1, z), NETHERRACK, immediate=False)
+                self.add_block((x, y1+1, z), NETHERRACK, immediate=False)
+                self.add_block((x, y2, z), NETHERRACK, immediate=False)
+                self.add_block((x, y2-1, z), NETHERRACK, immediate=False)
+                self.add_block((x, -6, z), LAVA_SOURCE, immediate=False)
+                mk = random.randint(1, 200)
+                y = perlin2(x,z)
+                self.add_block((x, y+50, z), GRASS, immediate=False)
+                self.add_block((x, y+49, z), DIRT, immediate=False)
+                self.add_block((x, y+48, z), DIRT, immediate=False)
+                self.add_block((x, y+47, z), DIRT, immediate=False)
+                if mk == 50 :
+                    self.createTree(x, y+51, z, "oak")
+                elif mk == 100 :
+                    self.createTree(x, y+51, z, "bush")
+    def _initialize_6(self):
+        logs.log(1, "World Generation : Advanced Cave Generation")
+        _mapmaker = 128
+        mapmaker = _mapmaker // 2
+        perlinCave = PerlinCave()
+                
+                
                     
                 
                     
@@ -472,20 +640,6 @@ class Model(object):
         return False
 
     def add_block(self, position, texture, immediate=True):
-        """ Add a block with the given `texture` and `position` to the world.
-
-        Parameters
-        ----------
-        position : tuple of len 3
-            The (x, y, z) position of the block to add.
-        texture : list of len 3
-            The coordinates of the texture squares. Use `tex_coords()` to
-            generate.
-        immediate : bool
-            Whether or not to draw the block immediately.
-
-        """
-        
         if position in self.world:
             self.remove_block(position, immediate)
         self.world[position] = texture
@@ -496,16 +650,6 @@ class Model(object):
             self.check_neighbors(position)
 
     def remove_block(self, position, immediate=True):
-        """ Remove the block at the given `position`.
-
-        Parameters
-        ----------
-        position : tuple of len 3
-            The (x, y, z) position of the block to remove.
-        immediate : bool
-            Whether or not to immediately remove block from canvas.
-
-        """
         del self.world[position]
         self.sectors[sectorize(position)].remove(position)
         if immediate:
@@ -514,12 +658,6 @@ class Model(object):
             self.check_neighbors(position)
 
     def check_neighbors(self, position):
-        """ Check all blocks surrounding `position` and ensure their visual
-        state is current. This means hiding blocks that are not exposed and
-        ensuring that all exposed blocks are shown. Usually used after a block
-        is added or removed.
-
-        """
         x, y, z = position
         for dx, dy, dz in FACES:
             key = (x + dx, y + dy, z + dz)
@@ -533,17 +671,6 @@ class Model(object):
                     self.hide_block(key)
 
     def show_block(self, position, immediate=True):
-        """ Show the block at the given `position`. This method assumes the
-        block has already been added with add_block()
-
-        Parameters
-        ----------
-        position : tuple of len 3
-            The (x, y, z) position of the block to show.
-        immediate : bool
-            Whether or not to show the block immediately.
-
-        """
         texture = self.world[position]
         self.shown[position] = texture
         if immediate:
@@ -552,17 +679,6 @@ class Model(object):
             self._enqueue(self._show_block, position, texture)
 
     def _show_block(self, position, texture):
-        """ Private implementation of the `show_block()` method.
-
-        Parameters
-        ----------
-        position : tuple of len 3
-            The (x, y, z) position of the block to show.
-        texture : list of len 3
-            The coordinates of the texture squares. Use `tex_coords()` to
-            generate.
-
-        """
         x, y, z = position
         vertex_data = cube_vertices(x, y, z, 0.5)
         texture_data = list(texture)
@@ -573,17 +689,6 @@ class Model(object):
             ('t2f/static', texture_data))
 
     def hide_block(self, position, immediate=True):
-        """ Hide the block at the given `position`. Hiding does not remove the
-        block from the world.
-
-        Parameters
-        ----------
-        position : tuple of len 3
-            The (x, y, z) position of the block to hide.
-        immediate : bool
-            Whether or not to immediately remove the block from the canvas.
-
-        """
         self.shown.pop(position)
         if immediate:
             self._hide_block(position)
@@ -591,35 +696,20 @@ class Model(object):
             self._enqueue(self._hide_block, position)
 
     def _hide_block(self, position):
-        """ Private implementation of the 'hide_block()` method.
-
-        """
         self._shown.pop(position).delete()
 
     def show_sector(self, sector):
-        """ Ensure all blocks in the given sector that should be shown are
-        drawn to the canvas.
-
-        """
         for position in self.sectors.get(sector, []):
             if position not in self.shown and self.exposed(position):
                 self.show_block(position, False)
 
     def hide_sector(self, sector):
-        """ Ensure all blocks in the given sector that should be hidden are
-        removed from the canvas.
 
-        """
         for position in self.sectors.get(sector, []):
             if position in self.shown:
                 self.hide_block(position, False)
 
     def change_sectors(self, before, after):
-        """ Move from sector `before` to sector `after`. A sector is a
-        contiguous x, y sub-region of world. Sectors are used to speed up
-        world rendering.
-
-        """
         before_set = set()
         after_set = set()
         pad = 4
@@ -655,12 +745,6 @@ class Model(object):
         func(*args)
 
     def process_queue(self):
-        """ Process the entire queue while taking periodic breaks. This allows
-        the game loop to run smoothly. The queue contains calls to
-        _show_block() and _hide_block() so this method should be called if
-        add_block() or remove_block() was called with immediate=False
-
-        """
         start = time.perf_counter()
         while self.queue and time.perf_counter() - start < 1.0 / TICKS_PER_SEC:
             self._dequeue()
@@ -688,7 +772,7 @@ class Window(pyglet.window.Window):
         # right, and 0 otherwise.
         self.strafe = [0, 0]
         logs.log(1, "Setting self.strafe = [0, 0]")
-        self.position = (0, 1, 0)
+        self.position = (0, 100, 0)
         logs.log(1, "Setting self.position = (0, 1, 0)")
         self.rotation = (0, 0)
         logs.log(1, "Setting self.rotation = (0, 0)")
@@ -816,15 +900,7 @@ class Window(pyglet.window.Window):
             self._update(dt / m)
 
     def _update(self, dt):
-        """ Private implementation of the `update()` method. This is where most
-        of the motion logic lives, along with gravity and collision detection.
 
-        Parameters
-        ----------
-        dt : float
-            The change in time since the last call.
-
-        """
         # walking
         speed = FLYING_SPEED if self.flying else WALKING_SPEED
         d = dt * speed # distance covered this tick.
@@ -845,22 +921,6 @@ class Window(pyglet.window.Window):
         self.position = (x, y, z)
 
     def collide(self, position, height):
-        """ Checks to see if the player at the given `position` and `height`
-        is colliding with any blocks in the world.
-
-        Parameters
-        ----------
-        position : tuple of len 3
-            The (x, y, z) position to check for collisions at.
-        height : int or float
-            The height of the player.
-
-        Returns
-        -------
-        position : tuple of len 3
-            The new position of the player taking into account collisions.
-
-        """
         # How much overlap with a dimension of a surrounding block you need to
         # have to count as a collision. If 0, touching terrain at all counts as
         # a collision. If .49, you sink into the ground, as if walking through
@@ -891,22 +951,6 @@ class Window(pyglet.window.Window):
         return tuple(p)
 
     def on_mouse_press(self, x, y, button, modifiers):
-        """ Called when a mouse button is pressed. See pyglet docs for button
-        amd modifier mappings.
-
-        Parameters
-        ----------
-        x, y : int
-            The coordinates of the mouse click. Always center of the screen if
-            the mouse is captured.
-        button : int
-            Number representing mouse button that was clicked. 1 = left button,
-            4 = right button.
-        modifiers : int
-            Number representing any modifying keys that were pressed when the
-            mouse button was clicked.
-
-        """
         if self.exclusive:
             vector = self.get_sight_vector()
             block, previous = self.model.hit_test(self.position, vector)
@@ -923,17 +967,6 @@ class Window(pyglet.window.Window):
             self.set_exclusive_mouse(True)
 
     def on_mouse_motion(self, x, y, dx, dy):
-        """ Called when the player moves the mouse.
-
-        Parameters
-        ----------
-        x, y : int
-            The coordinates of the mouse click. Always center of the screen if
-            the mouse is captured.
-        dx, dy : float
-            The movement of the mouse.
-
-        """
         if self.exclusive:
             m = 0.15
             x, y = self.rotation
@@ -942,17 +975,6 @@ class Window(pyglet.window.Window):
             self.rotation = (x, y)
 
     def on_key_press(self, symbol, modifiers):
-        """ Called when the player presses a key. See pyglet docs for key
-        mappings.
-
-        Parameters
-        ----------
-        symbol : int
-            Number representing the key that was pressed.
-        modifiers : int
-            Number representing any modifying keys that were pressed.
-
-        """
         if symbol == key.W:
             self.strafe[0] -= 1
         elif symbol == key.S:
@@ -973,17 +995,6 @@ class Window(pyglet.window.Window):
             self.block = self.inventory[index]
 
     def on_key_release(self, symbol, modifiers):
-        """ Called when the player releases a key. See pyglet docs for key
-        mappings.
-
-        Parameters
-        ----------
-        symbol : int
-            Number representing the key that was pressed.
-        modifiers : int
-            Number representing any modifying keys that were pressed.
-
-        """
         if symbol == key.W:
             self.strafe[0] += 1
         elif symbol == key.S:
@@ -994,9 +1005,6 @@ class Window(pyglet.window.Window):
             self.strafe[1] -= 1
 
     def on_resize(self, width, height):
-        """ Called when the window is resized to a new `width` and `height`.
-
-        """
         # label
         self.label.y = height - 10
         # reticle
@@ -1135,8 +1143,9 @@ def setup(FOG):
         logs.log(2, "Fog Disabled !")
 
 
-def main(FOG):
+def main(FOG, FULL):
     logs.log(2,"Launching Game !")
+    logs.log(2,f"Using python {sys.version_info.major}.{sys.version_info.minor}")
     logs.log(2,"System Information")
     uname = platform.uname()
     logs.log(2,f"System: {uname.system}")
@@ -1148,15 +1157,15 @@ def main(FOG):
     window = Window(width=800, height=600, caption='Minecraft', resizable=True)
     # Hide the mouse cursor and prevent the mouse from leaving the window.
     window.set_exclusive_mouse(True)
-    icon = pyglet.image.load("minetest.png")
+    icon = pyglet.image.load("default/icon.png")
     window.set_icon(icon)
     setup(FOG)
-    
+    window.set_fullscreen(fullscreen=FULL)
     
     pyglet.app.run()
 
 
 if __name__ == '__main__':
-    main(FOG)
+    main(FOG, FULL)
     logs.log(1, "Game finished")
     logs.log(1, "Shutting Down.")
